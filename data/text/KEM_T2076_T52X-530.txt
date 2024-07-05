@@ -1,0 +1,1119 @@
+KEMET Organic Capacitor (KO-CAP®) T52X/T530 Polymer Electrolytic Capacitors
+
+Ki EMET a YAGEO company
+
+Overview
+
+KO-CAP E===
+
+The KEMET Organic Capacitor (KO-CAP) is a solid electrolytic capacitor with a conductive polymer cathode capable of delivering very low ESR and improved capacitance retention at high frequencies. KO-CAP combines the low ESR of multilayer ceramic, the high capacitance of aluminum electrolytic, and the volumetric efficiency of tantalum into a single surface mount package. Unlike liquid electrolyte-based capacitors, KO-CAP has a very long operational life and high ripple current capabilities.
+
+The T52X/T530 provides the widest range of voltages, capacitance and case size options in the KO-CAP family and is suitable for general purpose DC applications for up to 48 VDC voltage rails.
+
+Benefits
+
+ESR values down to 4 mΩ • Stable capacitance across temperature and voltage • No aging effects • High ripple handling • Volumetrically efficient • High frequency capacitance retention • 100% accelerated steady state aging • 100% surge current tested
+
+Applications
+
+Typical applications include DC/DC converters, audio/sound circuits (mobile phone and base stations, smart phones, MP3 players), power supply inputs, portable electronics (notebook PCs, displays, SSDs, HDDs and USBs, digital cameras, GPS navigation systems, WiFi modules), telecommunications, consumer electronics (analytical and test equipment, high speed servers), high voltage applications such as 12 V to 48 V power input rails, densely populated circuits with space restrictions, microprocessor decoupling, and high ripple current applications.
+
+
+
+
+
+
+
+
+
+
+
+Built Into Tomorrow
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 1
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Environmental Compliance
+
+RoHS compliant when ordered with 100% Sn, Ni-Pd-Au or non-magnetic 100% Sn solder • Halogen-free • Epoxy compliant with UL94 V-0 *1
+
+*1 : Except part numbers in the T529 series, please refer to the Table 1
+
+K-SIM
+
+For a detailed analysis of specific part numbers, please visit https://ksim.kemet.com/capacitor-simulation to access KEMET's K-SIM software. KEMET K-SIM is designed to simulate behavior of components with respect to frequency, ambient temperature, and DC bias levels.
+
+Series Reference Selection
+
+Series Voltage Range Maximum Operating Temperature Special Features < 1 V to 9 V Applications 12 V to 48 V Applications 85°C Rated 105°C Rated 125°C Rated Miniature Size Low ESL Low DC Leakage T520 Standard X * X** X T521 High Voltage X X X X T523 Facedown Terminal X X** X X** X T525 High Temperature X * X T527 Small Size X X X X T529 Miniature X X X X T530 High Cap/ Low ESR X X X TF08 Ultrathin- Facedown X * X X
+
+Not recommended for new design. ** Selected values.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 2 2
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Ordering Information
+
+T52X/T530 A
+
+T 520 V 157 M 006 T E045 Series Case Size1 Capacitance Code (pF) Capacitance Tolerance Rated Voltage (VDC) Failure Rate/ Design Termination Finish ESR & DC Leakage Code Packaging (C-Spec) 520 = Polymer 521 = High voltage 523 = Facedown terminal 525 = 125°C rated 527 = Facedown terminal 529 = Substrate terminal 530 = 125°C High capacitance A B C D H I J K L M P Q S T U V W X Y First two digits represent significant figures. Third digit specifies number of zeros. K = ±10% M = ±20% 002 = 2 2R5 = 2.5 003 = 3 004 = 4 006 = 6.3 008 = 8 010 = 10 011 = 11 12R = 12.5 016 = 16 020 = 20 025 = 25 035 = 35 050 = 50 063 = 63 075 = 75 A = N/A T = 100% Matte tin (Sn)-plated H*** = Tin/lead (SnPb) solder coated (5% Pb minimum) P* = Ni-Pd-Au-plated A** = Ni-Au E = ESR last three digits specify ESR in mΩ (045 = 45 mΩ). DC Leakage max 0.1 CV K = ESR last three digits specify ESR in mΩ. DC Leakage max 0.05 CV I = ESR last three digits specify ESR in mΩ. DC Leakage max 0.03 CV Blank = 7" reel 7280**** = 13" reel
+
+Capacitor Class
+
+T = Tantalum
+
+Gold termination available upon request Non-magnetic terminations available for customized solutions. For availability and technical information, please contact your KEMET sales representative. * P termination only available on select part numbers ** A termination only available on T529 part numbers *** H termination not available for T527/T529 part numbers **** 13" reel not available for T520A case and some other part numbers
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 3 3
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Ordering Information cont.
+
+T F 08A 226 TF08 M 016 A P E200 Capacitor Class Series Case Size Capacitance Code (pF) Capacitance Tolerance Rated Voltage (VDC) Failure Rate/ Design Termination Finish ESR Code T = Tantalum F= Ultrathin polymer solution- Facedown construction 08A = 3216/0.8 max height First two digits represent significant figures. Third digit specifies number of zeros. M = ±20% 006 = 6.3 016 = 16 A = N/A P = Ni-Pd-Au-plated E = ESR Last three digits specify ESR in mΩ (200 = 200mΩ)
+
+Performance Characteristics
+
+Item Performance Characteristics Operating Temperature −55°C to 85°C/105°C/125°C (refer to part number for maximum temperature rating) Rated Capacitance Range 0.68 – 1,500 µF at 120 Hz/25°C * Capacitance Tolerance K tolerance (10%), M tolerance (20%) Rated Voltage Range 2 – 75 V DF (120 Hz) Refer to Part Number Electrical Specification Table* ESR (100 kHz) Refer to Part Number Electrical Specification Table** Leakage Current Refer to Part Number Electrical Specification Table
+
+For parts identified with ^ symbol in the part numbers table, apply 1.5 V DC for measurement ** For PN T520B477M2R5ATE014 the ESR measurement should be taken at 300 to 500kHz
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 4 4
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET a YAGEO
+
+company
+
+Qualification
+
+Test Condition Characteristics Δ C/C Within −20%/+10% of initial value or ±20*1 Endurance Temperature: 85°C, 105°C, 125°C*2 Voltage: 1.0 Rated Voltage 2/3 Rated Voltage for 125°C rating PN Time: 2,000 Hours*5 DF DCL ESR Within initial limits or 1.5 x initial limit*1 Within 1.25 x initial limit for T ≤ 105°C Within 2.0 x initial limit for > 105°C Within initial limit*1 TF08A: Within 1.5 x initial limit Within 2.0 x initial limit or N/A*1 Δ C/C Within −20%/+10% of initial value Storage Life Humidity Temperature: 105°C, 125°C*2 Voltage: 0 Voltage Time: 2,000 Hours (This test is N/A for *1) Temperature: 60°C Voltage: No Load Humidity: 90% RH Time: 500 Hours, 1,000 Hours (T525, T530) DF DCL ESR Δ C/C DF DCL Within initial limits Within 1.25 x initial limit T521: 1.25 x IL at 105°C, 2x IL at 125°C T525/T530: Within 2.0 x initial limit Within 2.0 x initial limit Within −5%/+35% of initial value or −20%, +30% of initial DC/C limit*1 T520B477M2R5ATE014: −20% to +50% of initial DC/C limit Within initial limits T527/T529/TF08A: Within 1.5 x initial limits*3 Within 5.0 x initial limit T521/T525/T529/T530: Within 3.0 x initial limit*3 T527/TF08A: Within initial limits Within 2.0 x initial limit T525/T527/T529/T530/TF08A: N/A*3 ESR +25°C −55°C +85°C (N/A T527/T529/ TF08A)*6 +105°C Temperature Stability Extreme temperature exposure at a succession of continuous steps at +25°C, −55°C, +25°C, +85°C, +105°/125°C*2, +25°C Δ C/C IL*3 ±20% 0% to −20% of DC/C*1 ±20% +50% to 0% of DC/C*7 ±30% +50% to 0% of DC/C*1*7 DF IL IL 1.2 x IL 1.5 x IL*8 1.5 x IL DCL IL N/A 10 x IL 10 x IL Surge Voltage Temperature: 105°C, 85°C*1, *2, *4 Voltage: 1.32 x Rated voltage*4 1.0 x Rated voltage*1 Time: 1,000 cycles Δ C/C DF DCL Within −20%/+10% of initial value or ±20%*1 Within initial limits Within initial limits ESR Within initial limits or N/A*1 Mechanical Shock/Vibration MIL–STD–202, Method 213, Condition I, 100 G Peak. MIL–STD–202, Method 204, Condition D, 10 Hz to 2,000 Hz, 20 G peak Δ C/C DF DCL Within ±10% of initial value or initial DC/C limits*1 Within initial limits Within initial limits
+
+1 For case code 3528-21 and lower identified with ^ at the part number table (except the T520A, T527T226M025ATE100) *2 Please refer to part number specifications for individual temperature classification. *3 IL = Initial limit *4 For T527/T529 > 20 V test temperature is at + 15 to +35°C, test voltage at 1.16 x VR (except T527T226M025ATE100 test temperature is +105°C) For T527/T529/TF , 6 V test voltage is 1.27 x rated voltage For TFA08226M016 test voltage is 1.15 x rated voltage *5 Test time is 1,000 hours for the below: Parts with case code 3528-21 and lower identified with ^ at the part number table (except the T520A part numbers T527T156M025ATE100, T527T226M025ATE100 and T521B156M025ATE090) *6 +85°C measurement is applicable to: T527T226M025ATE100 *7 Delta cap condition of +50/ 0% is applicable to: T527T226M025APE100 *8 DF at 1.5 X IL is applicable to: T527T226M025APE100
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 5 5
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET a YAGEO company
+
+Reliability
+
+KO-CAP capacitors have an average failure rate of 0.5 %/1,000 hours at category voltage, UC, and category temperature, TC. These capacitors are qualified using industry test standards at UC and TC. The minimum test time (1,000 hours or 2,000 hours) is dependent on the product.
+
+The actual life expectancy of KO-CAP capacitors increases when application voltage, UA, and application temperature, TA, are lower than UC and TC. As a general guideline, when UA < 0.9 * UC and TA < 85°C, the life expectancy will typically exceed the useful lifetime of most hardware (> 10 years).
+
+The lifetime of a KO-CAP capacitor at a specific application voltage and temperature can be modeled using the equations below. A failure is defined as passing enough current to blow a 1-amp fuse. The calculation is an estimation based on empirical results and is not a guarantee.
+
+VAF = ( )UC  UA  n  where:  VAF = acceleration factor due to voltage, unitless  UC = category voltage, volt UA = application voltage, volt n = exponent, 16 
+
+TAF = e  [ (  Ea k  1  273+TA  1  273+TC  )]  where: TAF = acceleration factor due to temperature, unitless Ea = activation energy, 1.4 eV k = Boltzmann’s constant, 8.617E-5 eV/K TA = application temperature, °C TC = category temperature, °C 
+
+AF = VAF * TAF   where:  AF = acceleration factor, unitless  TAF = accerlation factor due to temperature, unitless  VAF = acceleration factor due to voltage, unitless 
+
+LifeUA ,TA  = LifeUC ,TC  * AF  where: LifeUA, TA = estimated life application voltage       and temperature, years LifeUC, TC = guaranteed life category voltage     and temperature, years        AF = acceleration factor, unitless 
+
+Terms: Category voltage, UC : maximum recommended peak DC operating voltage for continuous operation at the category temperature, TC Rated voltage, UR : maximum recommended peak DC operating voltage for continuous operation up to the rated temperature, TR Category temperature, TC : maximum recommended operating temperature. Voltage derating may be required at TC Rated temperature, TR : maximum recommended operating temperature without voltage derating. TR is equal to or lower than TC
+
+Reliability Table 1 – Common temperature range classifications
+
+85°C (TR) / 85°C (TC) Rated Voltage (UR) Category Voltage (UC) 2.5 2.5 4.0 4.0 6.3 6.3 8.0 8.0 10.0 10.0 12.5 12.5 16.0 16.0 20.0 20.0 25.0 25.0 35.0 35.0 50.0 50.0 63.0 63.0 105°C (TR) / 105°C (TC) Rated Voltage (UR) Category Voltage (UC) 2.5 2.5 4.0 4.0 6.3 6.3 8.0 8.0 10.0 10.0 12.5 12.5 16.0 16.0 20.0 20.0 25.0 25.0 35.0 35.0 50.0 50.0 63.0 63.0 105°C (TR) / 125°C (TC) Rated Voltage (UR) Category Voltage (UC) 2.5 1.7 4.0 2.7 6.3 4.2 8.0 5.4 10.0 6.7 12.5 8.4 16.0 10.7 20.0 13.4 25.0 16.8 35.0 23.5 50.0 33.5 63.0 42.2
+
+75.0
+
+75.0
+
+75.0
+
+75.0
+
+75.0
+
+50.3
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 6 6
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Electrical Characteristics
+
+T520 Standard (2 V – 10 V)
+
+ESR vs. Frequency
+
+Capacitance vs. Frequency
+
+100  ) s m h O (     R S E , e c n a d e p m  10  1  0.1  T520B157M006ATE035_Imp T520C227M006ATE025_Imp T520V337M006ATE015_Imp T520D337M006ATE009_Imp T520B157M006ATE035_ESR T520C227M006ATE025_ESR T520V337M006ATE015_ESR T520D337M006ATE009_ESR  I  0.01  0.001  100  1,000  10,000  100,000  1,000,000  10,000,000  Frequency (Hz) 
+
+1000  ) F u (     e c n a t i c a p a C  100  10  1  100  T520B157M006ATE035 T520C227M006ATE025 T520V337M006ATE015 T520D337M006ATE009  1,000  10,000 100,000 Frequency (Hz)  1,000,000  10,000,000 
+
+T521 High Voltage (12 V – 75 V)
+
+ESR vs. Frequency
+
+Capacitance vs. Frequency
+
+100  ) s m h O ( R S E , e c n a d e p m           10  1  T521V476M020ATE055_Imp T521V336M025ATE060_Imp T521V156M035ATE100_Imp T521V476M020ATE055_ESR T521V336M025ATE060_ESR T521V156M035ATE100_ESR  I  0.1  0.01  100  1,000  10,000  100,000  1,000,000  10,000,000  Frequency (Hz)  
+
+100  ) F µ ( e c n a t i c a p a C     10  1  100  T521V476M020ATE055 T521V336M025ATE060 T521V156M035ATE100  1,000  10,000  100,000 Frequency (Hz)  1,000,000  10,000,000 
+
+T530 High Cap/Low ESR (2 V – 10 V)
+
+ESR vs. Frequency
+
+Capacitance vs. Frequency
+
+10  1,000  T530D227M006ATE006_Imp  T530Y337M006ATE005_Imp  ) s m h O ( R S E           , e c n a d e p m  I  1  0.1  T530X477M006ATE004_Imp  T530D227M006ATE006_ESR  T530Y337M006ATE005_ESR  T530X477M006ATE004_ESR  ) F μ (        e c n a t i c a p a C  100  10  0.01  0.001  1  100  1,000  10,000  100,000  1,000,000  10,000,000  100  Frequency (Hz)   T530D227M006ATE006  T530Y337M006ATE005  T530X477M006ATE004  1,000  10,000  100,000  1,000,000  10,000,000  Frequency (Hz)  
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 7 7
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Dimensions – Millimeters (Inches) Metric will govern
+
+T520 / T521 / T525 / T530
+
+CATHODE (-) END VIEW
+
+SIDE VIEW
+
+ANODE (+) END VIEW
+
+BOTTOM VIEW
+
+— | | —=| R_/— - W = |
+
+Termination cutout at KEMET's option, either end
+
+a
+
+“18 | B j
+
+Glue pad  shape/design at  KEMET's option 
+
+Case Size
+
+Component Dimensions
+
+KEMET EIA L W H F ±0.1 ±(0.004) S ±0.3 ±(0.012) S1 ±0.4 (0.0157) S2 ±0.2 (0.00) B ±0.15 (Ref) ±0.006 X (Ref) A 3216- 18 3.2 ±0.2 (0.126 ±0.008) 1.6 ±0.2 (0.063 ±0.008) 1.6 ±0.2 (0.063 ±0.008) 1.2 (0.047) 0.8 (0.032) N/A 0.10 ±0.10 (0.004 ±0.004) B 3528- 21 3.5 ±0.2 (0.138 ±0.008) 2.8 ±0.2 (0.110 ±0.008) 1.9 ±0.1*3 (0.075 ±0.004) 2.2 (0.087) 0.8 (0.032) S1 = 0.8 (0.032)*2 S2 = 0.8 (0.032)*2 0.4 (0.016) 0.10 ±0.10 (0.004 ±0.004) C 6032- 28 6.0 ±0.3 (0.236 ±0.012) 3.2 ±0.2 (0.126 ±0.008) 2.5 ±0.3 (0.098 ±0.012) 2.2 (0.087) 1.30 (0.051) 0.5 (0.020) 0.10 ±0.10 (0.004 ±0.004) D 7343- 31 7.3 ±0.3 (0.287 ±0.012) 4.3 ±0.3 (0.169 ±0.012) 2.8 ±0.3 (0.110 ±0.012) 2.4 (0.094) 1.30 (0.051) 0.5 (0.020) 0.10 ±0.10 (0.004 ±0.004) H 7360- 20 7.3 ±0.3 (0.287 ±0.012) 6.0 ±0.3 (0.236 ±0.012) 1.9 ±0.1 (0.075 ±0.004) 4.1 (0.161) 1.3 (0.051) N/A 0.10 ±0.10 (0.004 ±0.004) J 7360- 15 7.3 ±0.3 (0.287 ±0.012) 6.0 ±0.3 (0.236 ±0.012) 1.5 (0.059) Maximum 4.1 (0.161) 1.3 (0.051) N/A 0.10 ±0.10 (0.004 ±0.004) L 6032- 19 6.0 ±0.3 (0.236 ±0.012) 3.2 ±0.2 (0.126 ±0.008) 1.8 ±0.1 (0.071 ±0.004) 2.2 (0.087) 1.3 (0.051) N/A 0.05 (0.002) M 3528- 15 3.5 ±0.2 (0.138 ±0.008) 2.8 ±0.2 (0.110 ±0.008) 1.4 ±0.1 (0.055 ±0.004) 2.2 (0.087) 0.8 (0.031) N/A 0.05 (0.002) Q 7343- 12 7.3 ±0.3 (0.287 ±0.012) 4.3 ±0.3 (0.169 ±0.012) 1.1 ±0.1 (0.043 ±0.004) 2.4 (0.094) 1.3 (0.051) N/A 0.05 (0.002) T 3528- 12 3.5 ±0.2 (0.138 ±0.008) 2.8 ±0.2 (0.110 ±0.008) 1.1 ±0.1 (0.043 ±0.004) 2.2 (0.087) 0.8 (0.031) N/A 0.05 (0.002) U 6032- 15 6.0 ±0.3 (0.236 ±0.012) 3.2 ±0.2 (0.126 ±0.008) 1.4 ±0.1 (0.055 ±0.004) 2.2 (0.087) 1.3 (0.051) N/A 0.05 (0.002) V 7343- 19 7.3 ±0.3 (0.287 ±0.012) 4.3 ±0.3 (0.169 ±0.012) 1.8 ±0.1*1 (0.071±0.004) 2.4 (0.094) 1.3 (0.051) N/A 0.05 (0.002) W 7343- 15 7.3 ±0.3 (0.287 ±0.012) 4.3 ±0.3 (0.169 ±0.012) 1.4 ±0.1 (0.055 ±0.004) 2.4(0.094) 2.8 ±0.2 (0.110 ±0.008)*2 1.30 (0.051) S1 = 5.0 (0.197)*2 S2 = 1.3 (0.051)*2 N/A 0.05 (0.002) X 7343- 43 7.3 ±0.3 (0.287 ±0.012) 4.3 ±0.3 (0.169 ±0.012) 4.0 ±0.3 (0.157 ±0.012) 2.4 (0.094) 1.3 (0.051) 0.5 (0.020) 0.10 ±0.10 (0.004 ±0.004) Y P (Ref) 0.4 (0.016) 0.5 (0.020) 0.9 (0.035) 0.9 (0.035) N/A N/A N/A N/A N/A N/A N/A N/A N/A 1.7 (0.067) R T A (Ref) (Ref) (Min) 0.4 (0.016) 0.13 (0.005) 1.2 (0.047) 1.0 (0.039) 0.13 (0.005) 1.9 (0.075) 1.0 (0.039) 0.13 (0.005) 2.9 (0.114) 1.0 (0.039) 0.13 (0.005) 3.8 (0.150) N/A 0.13 (0.005) 3.3 (0.130) N/A N/A 3.3 (0.130) N/A 0.13 (0.005) 2.5 (0.098) N/A 0.13 (0.005) 1.1 (0.043) N/A 0.13 (0.005) 3.8 (0.150) N/A 0.13 (0.005) 1.9 (0.075) N/A 0.13 (0.005) 2.9 (0.114) N/A 0.13 (0.005) 3.8 (0.150) N/A 0.13 (0.005) 3.8 (0.150) 1.0 (0.039) 0.13 (0.005) 3.8 (0.150) Typical Weight (mg) 53 95 184 435 385 263 187 98 170 55 117 274 223 554 494
+
+7343- 40
+
+7.3 ±0.3 (0.287 ±0.012)
+
+4.3 ±0.3 (0.169 ±0.012)
+
+3.8 ±0.2 (0.150 ±0.008)
+
+2.4 (0.094)
+
+1.3 (0.051)
+
+0.5 (0.020)
+
+0.10 ±0.10 (0.004 ±0.004)
+
+1.7 (0.067)
+
+1.0 (0.039)
+
+0.13 (0.005)
+
+3.8 (0.150)
+
+1 Height tolerance is ±0.2 for V case T521 only *2 S1 and S2 is for T528 series only *3 Height tolerance is ±0.2 for: T520B with M & N terminations
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 8 8
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Dimensions – Millimeters cont.
+
+T523
+
+END VIEW
+
+H   W 
+
+SIDE VIEW
+
+L
+
+BOTTOM VIEW (H Case)
+
+F
+
+BOTTOM VIEW (V/W/J Case)  F  S  S 
+
+S
+
+S
+
+KEMET EIA L W H W J V H 7343-15 7360-15 7343-20 7360-20 7.3±0.3 (0.287±0.012) 7.3±0.3 (0.287±0.012) 7.3±0.3 (0.287±0.012) 7.3±0.3 (0.287±0.012) 4.3±0.3 (0.169±0.012) 6.0±0.3 (0.236±0.012) 4.3±0.3 (0.169±0.012) 6.0±0.3 (0.236±0.012) 1.4±0.1 (0.055±0.004) 1.4±0.1 (0.055±0.004) 1.9±0.1 (0.075±0.004) 1.9±0.1 (0.075±0.004) F ±0.1 (±0.004) S ±0.3 (±0.012) Typical Weight (mg) 2.4 (0.094) 4.45 (0.175) 2.4 (0.094) 4.45 (0.175) 1.3 (0.051) 1.6 (0.063) 1.3 (0.051) 1.6 (0.063) 223 263 274 385
+
+T527/TF
+
+END VIEW
+
+SIDE VIEW
+
+BOTTOM VIEW
+
+q | -+—_ w—_+
+
+L
+
+| 1] t - “| }-—s—| Ls +
+
+T527 B-Case/T-Case
+
+END VIEW
+
+SIDE VIEW
+
+BOTTOM VIEW
+
+W
+
+|~—___»|
+
+H
+
+L
+
+F  S  S 
+
+Case Size Component Dimensions KEMET EIA L W H F S I 3216-10 3.2 ±0.2 1.6 ±0.2 0.9 ±0.1 1.2 ±0.1 0.8 ±0.2 08A 3216-08 3.2 ±0.2 1.6 ±0.2 0.8 Maximum 1.2 ±0.1 0.8 ±0.2 K 3528-10 3.2 ±0.2 2.8 ±0.2 1.0 Maximum 2.2 ±0.1 0.7 ±0.2 T 3528-12 3.5 ±0.2 2.8 ±0.2 1.1 ±0.1 2.2 ±0.1 0.7 ±0.2 S 3216-12 3.2 ±0.2 1.6 ±0.2 1.1 ±0.1 1.2 ±0.1 0.8 ±0.2 Typical Weight (mg) 70 – 70 55 26.2
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 9 9
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+Dimensions – Millimeters cont.
+
+T529
+
+END VIEW
+
+SIDE VIEW
+
+BOTTOM VIEW
+
+ W 
+
+| |
+
+H
+
+L 
+
+S   F   S 
+
+Case Size Component Dimensions KEMET EIA L W H F P 2012–10 2.0±0.1 1.25±0.1 1.0 maximum 0.9±0.1 I 3216–10 3.2±0.2 1.6±0.2 1.0 maximum 1.2±0.1 S 0.55±0.1 0.8±0.1 Typical Weight (mg) 11.4 70
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+KEMET company
+
+a'YAGEO
+
+T2076_T52X-530 • 5/28/2024 10 10
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 470 47 68 68 100 100 100 100 100 100 100 150 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 330 330 330 KEMET/EIA (See below for part options) V/7343-19 T520V477M002A(3)E040 T520A476M2R5ATE090 ^ A/3216-18 T520A686M2R5ATE070 ^ A/3216-18 T520A686M2R5ATE080 ^ A/3216-18 T520T107M2R5A(3)E040 T/3528-12 T520T107M2R5A(3)E070 T/3528-12 T525T107M2R5A(3)E080 T/3528-12 T520B107M2R5A(3)E025 B/3528-21 T520B107M2R5A(3)E035 B/3528-21 T520B107M2R5A(3)E040 B/3528-21 T520B107M2R5A(3)E070 B/3528-21 T520U157M2R5A(3)E055 U/6032-15 T520A227M2R5ATE025 ^ A/3216-18 T520A227M2R5ATE035 ^ A/3216-18 T520B227M2R5A(3)E015 B/3528-21 B/3528-21 T520B227M2R5A(3)E018 B/3528-21 T520B227M2R5A(3)E021 B/3528-21 T520B227M2R5A(3)E025 B/3528-21 T520B227M2R5A(3)E030 B/3528-21 T520B227M2R5A(3)E035 B/3528-21 T520B227M2R5A(3)E055 B/3528-21 T520B227M2R5A(3)E070 T520T227M2R5ATE070 ^ T/3528-12 T520T227M2R5ATE035 ^ T/3528-12 T520T227M2R5ATE030 ^ T/3528-12 U/6032-15 T520U227M2R5A(3)E055 C/6032-28 T520C227M2R5A(3)E025 C/6032-28 T520C227M2R5A(3)E045 W/7343-15 T520W227M2R5A(3)E025 V/7343-19 T520V227M2R5A(3)E006 V/7343-19 T520V227M2R5A(3)E007 V/7343-19 T520V227M2R5A(3)E009 T520V227M2R5A(3)E012 V/7343-19 T520V227M2R5A(3)E015 V/7343-19 V/7343-19 T520V227M2R5A(3)E025 V/7343-19 T520V227M2R5A(3)E045 D/7343-31 T520D227M2R5A(3)E007 D/7343-31 T520D227M2R5A(3)E040 B/3528-21 T520B337M2R5ATE009 ^ T520B337M2R5ATE012 ^ B/3528-21 T520B337M2R5A(3)E015 B/3528-21 µA at 25°C Maximum/ 5 Minutes 94 11.75 17 17 25 25 25 25 25 25 25 37.5 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 82.5 83 82.5 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 10 8 * 8 * 8 * 8 8 10 8 8 8 8 8 8 * 8 * 8 8 8 8 8 8 8 8 10 * 8 * 10 * 8 8 8 10 10 10 10 10 10 10 10 10 10 8 * 8 * 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 40 90 70 80 40 70 80 25 35 40 70 55 25 35 15 18 21 25 30 35 55 70 70 35 30 55 25 45 25 6 7 9 12 15 25 45 7 40 9 12 15 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 2,200 1,100 1,300 1,200 1,600 1,220 1,100 2,300 1,900 1,800 1,350 1,600 1,732 1,500 2,900 2,700 2,500 2,300 2,100 1,900 1,500 1,350 1,200 1,464 1,580 1,600 2,600 1,900 2,700 5,600 5,200 4,600 3,900 3,500 2,700 2,000 5,700 2,400 3,073 2,700 2,900 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 105 105 125 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 3 3 3 3 3 3 5 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 2 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 11 11
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 KEMET/EIA (See below for part options) T520B337M2R5A(3)E018 B/3528-21 B/3528-21 T520B337M2R5A(3)E035 B/3528-21 T520B337M2R5A(3)E045 B/3528-21 T520B337M2R5A(3)E070 C/6032-28 T520C337M2R5A(3)E015 C/6032-28 T520C337M2R5A(3)E018 C/6032-28 T520C337M2R5A(3)E025 C/6032-28 T520C337M2R5A(3)E045 T520L337M2R5A(3)E009 L/6032-19 T520L337M2R5A(3)E012 L/6032-19 L/6032-19 T520L337M2R5A(3)E025 W/7343-15 T520W337M2R5A(3)E015 W/7343-15 T520W337M2R5A(3)E025 W/7343-15 T520W337M2R5A(3)E040 V/7343-19 T520V337M2R5A(3)E006 V/7343-19 T520V337M2R5A(3)E007 V/7343-19 T520V337M2R5A(3)E009 T520V337M2R5A(3)E012 V/7343-19 T520V337M2R5A(3)E015 V/7343-19 T520V337M2R5A(3)E018 V/7343-19 V/7343-19 T520V337M2R5A(3)E025 V/7343-19 T520V337M2R5A(3)E040 D/7343-31 T520D337M2R5A(3)E006 D/7343-31 T520D337M2R5A(3)E007 D/7343-31 T525D337M2R5A(3)E025 T520B477M2R5ATE014 ^ B/3528-21 T520V477M2R5A(3)E006 V/7343-19 T520V477M2R5A(3)E007 V/7343-19 T520V477M2R5A(3)E009 V/7343-19 T520V477M2R5A(3)E012 V/7343-19 T520V477M2R5A(3)E015 V/7343-19 V/7343-19 T520V477M2R5A(3)E018 C/6032-28 T520C477M2R5A(3)E025 C/6032-28 T520C477M2R5A(3)E045 D/7343-31 T530D477M2R5A(3)E005 D/7343-31 T520D477M2R5A(3)E006 D/7343-31 T530D477M2R5A(3)E006 D/7343-31 T520D477M2R5A(3)E007 D/7343-31 T520D477M2R5A(3)E009 D/7343-31 T530D477M2R5A(3)E010 D/7343-31 T525D477M2R5A(3)E025 µA at 25°C Maximum/ 5 Minutes 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 82.5 188 117.5 117.5 117.5 117.5 117.5 117.5 117.5 117.5 117.5 117.5 117.5 117.5 117.5 117.5 117.5 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 8 8 8 8 8 8 8 8 8 10 10 10 10 10 10 10 10 10 10 10 10 10 10 8 * 10 10 10 10 10 10 8 8 8 10 8 10 10 8 10 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 18 35 45 70 15 18 25 45 9 12 25 15 25 40 6 7 9 12 15 18 25 40 6 7 25 14 6 7 9 12 15 18 25 45 5 6 6 7 9 10 25 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 2,700 1,900 1,700 1,350 3,300 3,000 2,600 1,900 4,100 3,500 2,400 3,500 2,700 2,100 5,600 5,200 4,600 3,900 3,500 3,200 2,700 2,200 6,100 5,700 3,000 3,000 5,600 5,200 4,600 3,900 3,500 3,200 2,600 1,900 7,100 6,100 6,500 5,700 5,000 5,000 3,000 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 125 85 105 105 105 105 105 105 105 105 125 105 125 105 105 125 125 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 1 3 3 3 3 3 3 3 3 5 3 5 3 3 5 5 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 12 12
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 560 680 680 680 680 680 680 680 680 680 680 680 680 680 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1500 1500 1500 100 100 100 100 100 150 150 150 150 KEMET/EIA (See below for part options) D/7343-31 T530D567M2R5A(3)E005 D/7343-31 T530D687M2R5A(3)E006 D/7343-31 T530D687M2R5A(3)E007 D/7343-31 T520D687M2R5A(3)E010 D/7343-31 T530D687M2R5A(3)E010 D/7343-31 T520D687M2R5A(3)E015 D/7343-31 T525D687M2R5A(3)E025 D/7343-31 T520D687M2R5A(3)E040 Y/7343-40 T530Y687M2R5A(3)E005 Y/7343-40 T530Y687M2R5A(3)E006 Y/7343-40 T530Y687M2R5A(3)E007 T520Y687M2R5A(3)E015 Y/7343-40 Y/7343-40 T520Y687M2R5A(3)E025 X/7343-43 T530X687M2R5A(3)E006 D/7343-31 T520D108M2R5A(3)E006 D/7343-31 T520D108M2R5A(3)E007 D/7343-31 T520D108M2R5A(3)E009 D/7343-31 T520D108M2R5A(3)E010 D/7343-31 T520D108M2R5A(3)E015 D/7343-31 T520D108M2R5A(3)E030 Y/7343-40 T530Y108M2R5A(3)E005 Y/7343-40 T530Y108M2R5A(3)E006 Y/7343-40 T520Y108M2R5A(3)E010 T520Y108M2R5A(3)E015 Y/7343-40 Y/7343-40 T520Y108M2R5A(3)E025 X/7343-43 T530X108M2R5A(3)E004 X/7343-43 T530X108M2R5A(3)E005 X/7343-43 T530X108M2R5A(3)E006 X/7343-43 T520X108M2R5A(3)E010 Y/7343-40 T520Y158M2R5A(3)E015 X/7343-43 T530X158M2R5A(3)E005 X/7343-43 T520X158M2R5A(3)E015 T525B107M003A(3)E080 B/3528-21 T520B107M003A(3)E025 B/3528-21 T520B107M003A(3)E035 B/3528-21 T520B107M003A(3)E040 B/3528-21 T520B107M003A(3)E070 B/3528-21 T520B157M003A(3)E025 B/3528-21 T520B157M003A(3)E035 B/3528-21 T520B157M003A(3)E040 B/3528-21 T520B157M003A(3)E070 B/3528-21 µA at 25°C Maximum/ 5 Minutes 140 170 170 170 170 170 170 170 170 170 170 170 170 170 250 250 250 250 250 250 250 250 250 250 250 250 250 250 250 375 375 375 30 30 30 30 30 45 45 45 45 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 8 10 8 10 10 10 8 8 8 10 10 8 10 10 10 10 10 10 8 8 10 10 10 8 8 8 10 10 8 10 8 8 8 8 8 8 8 8 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 5 6 7 10 10 15 25 40 5 6 7 15 25 6 6 7 9 10 15 30 5 6 10 15 25 4 5 6 10 15 5 15 80 25 35 40 70 25 35 40 70 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 7,100 6,500 6,000 4,700 5,000 3,900 3,000 2,400 7,300 6,600 6,100 4,000 3,100 6,700 6,100 5,700 5,000 4,700 3,900 2,700 7,300 6,600 4,900 4,000 3,100 8,200 7,300 6,700 5,000 4,000 7,300 4,100 1,300 2,300 1,900 1,800 1,350 2,300 1,900 1,800 1,350 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 125 125 125 105 125 105 125 105 125 125 125 105 105 125 105 105 105 105 105 105 125 125 105 105 105 125 125 125 105 105 125 105 125 105 105 105 105 105 105 105 105 5 5 5 3 5 3 5 3 5 5 5 3 3 5 3 3 3 3 3 3 5 5 3 3 3 5 5 5 3 3 5 3 5 3 3 3 3 3 3 3 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 3 3 3 3 3 3 3 3 3
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 13 13
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 150 330 330 330 330 330 470 470 680 680 680 680 1000 1000 1000 1500 15 33 33 47 47 47 68 68 68 68 68 68 68 68 100 100 100 100 100 100 100 100 100 100 100 KEMET/EIA (See below for part options) T525B157M003A(3)E080 B/3528-21 T520V337M003A(3)E009 V/7343-19 T520V337M003A(3)E012 V/7343-19 T520V337M003A(3)E015 V/7343-19 V/7343-19 T520V337M003A(3)E025 D/7343-31 T525D337M003A(3)E025 D/7343-31 T530D477M003A(3)E010 D/7343-31 T525D477M003A(3)E025 D/7343-31 T530D687M003A(3)E010 D/7343-31 T520D687M003A(3)E015 D/7343-31 T525D687M003A(3)E025 D/7343-31 T520D687M003A(3)E040 X/7343-43 T530X108M003A(3)E010 X/7343-43 T520X108M003A(3)E015 X/7343-43 T520X108M003A(3)E030 X/7343-43 T530X158M003A(3)E008 T520T156M004A(3)E100 T/3528-12 T520A336M004ATE070 ^ A/3216-18 T520A336M004ATE080 ^ A/3216-18 T520A476M004ATE070 ^ A/3216-18 T520A476M004ATE080 ^ A/3216-18 T520T476M004A(3)E070 T/3528-12 A/3216-18 T520A686M004ATE180 ^ T520T686M004A(3)E070 T/3528-12 B/3528-21 T520B686M004A(3)E025 B/3528-21 T520B686M004A(3)E035 B/3528-21 T520B686M004A(3)E040 B/3528-21 T520B686M004A(3)E070 B/3528-21 T525B686M004A(3)E080 T520U686M004A(3)E055 U/6032-15 T527I107M004ATE200 ^ I/3216-10 T520A107M004ATE150 ^ A/3216-18 T520A107M004ATE200 ^ A/3216-18 T520T107M004A(3)E070 T/3528-12 T520T107M004A(3)E150 T/3528-12 T520B107M004A(3)E025 B/3528-21 B/3528-21 T520B107M004A(3)E035 B/3528-21 T520B107M004A(3)E040 T520B107M004A(3)E070 B/3528-21 T525B107M004A(3)E080 B/3528-21 T520U107M004A(3)E055 U/6032-15 µA at 25°C Maximum/ 5 Minutes 45 99 99 99 99 99 141 141 204 204 204 204 300 300 300 450 6 13.2 13.2 18.8 18.8 18.8 27 27.2 27.2 27.2 27.2 27.2 27.2 27.2 40 40 40 40 40 40 40 40 40 40 40 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 10 10 10 10 10 8 10 8 10 10 10 8 10 10 8 8 8 * 8 * 8 * 8 * 8 8 * 8 8 8 8 8 8 8 8 * 8 * 8 * 8 8 8 8 8 8 8 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 80 9 12 15 25 25 10 25 10 15 25 40 10 15 30 8 100 70 80 70 80 70 180 70 25 35 40 70 80 55 200 150 200 70 150 25 35 40 70 80 55 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 1,300 4,600 3,900 3,500 2,700 3,000 5,000 3,000 5,000 3,900 3,000 2,400 5,200 4,100 2,900 5,800 1,000 1,300 1,200 1,300 1,200 1,220 800 1,220 2,300 1,900 1,800 1,350 1,300 1,600 775 900 700 1,220 800 2,300 1,900 1,800 1,350 1,300 1,600 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 125 105 105 105 105 125 125 125 125 105 125 105 125 105 105 125 105 105 105 105 105 105 105 105 105 105 105 105 125 105 105 105 105 105 105 105 105 105 105 125 105 5 3 3 3 3 5 5 5 5 3 5 3 5 3 3 5 3 3 3 3 3 3 3 3 3 3 3 3 5 3 3 3 3 3 3 3 3 3 3 5 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Rated Voltage VDC at 105°C
+
+Not all parts are 105°C rated 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+
+Rated Voltage
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 14 14
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 KEMET/EIA (See below for part options) T520B157M004A(3)E015 B/3528-21 T520B157M004A(3)E018 B/3528-21 T520B157M004A(3)E025 B/3528-21 T520B157M004A(3)E030 B/3528-21 T520B157M004A(3)E035 B/3528-21 T520B157M004A(3)E040 B/3528-21 T520B157M004A(3)E070 B/3528-21 T520U157M004A(3)E055 U/6032-15 C/6032-28 T520C157M004A(3)E015 C/6032-28 T520C157M004A(3)E025 C/6032-28 T520C157M004A(3)E045 T520C157M004A(3)E100 C/6032-28 T520V157M004A(3)E007 V/7343-19 T520V157M004A(3)E009 V/7343-19 T520V157M004A(3)E012 V/7343-19 T520V157M004A(3)E015 V/7343-19 V/7343-19 T520V157M004A(3)E025 D/7343-31 T520D157M004A(3)E007 K/3528-10 T527K227M004APE025 ^ K/3528-10 T527K227M004APE030 ^ T520T227M004ATE025 ^ T/3528-12 T520T227M004ATE030 ^ T/3528-12 T/3528-12 T520T227M004ATE035 ^ B/3528-21 T520B227M004A(3)E035 B/3528-21 T520B227M004A(3)E045 B/3528-21 T520B227M004A(3)E070 C/6032-28 T520C227M004A(3)E015 C/6032-28 T520C227M004A(3)E018 C/6032-28 T520C227M004A(3)E025 C/6032-28 T520C227M004A(3)E045 C/6032-28 T520C227M004A(3)E055 T520L227M004A(3)E012 L/6032-19 L/6032-19 T520L227M004A(3)E025 W/7343-15 T520W227M004A(3)E025 W/7343-15 T520W227M004A(3)E040 V/7343-19 T520V227M004A(3)E006 V/7343-19 T520V227M004A(3)E007 V/7343-19 T520V227M004A(3)E009 T520V227M004A(3)E012 V/7343-19 T520V227M004A(3)E015 V/7343-19 T520V227M004A(3)E018 V/7343-19 µA at 25°C Maximum/ 5 Minutes 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 88 88 176 176 176 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 8 8 8 8 8 8 8 8 8 8 10 10 10 10 10 10 10 * 10 * 10 * 10 * 10 * 8 8 8 8 8 8 8 8 8 8 10 10 10 10 10 10 10 10 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 15 18 25 30 35 40 70 55 15 25 45 100 7 9 12 15 25 7 25 30 25 30 35 35 45 70 15 18 25 45 55 12 25 25 40 6 7 9 12 15 18 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 2,900 2,700 2,300 2,100 1,900 1,800 1,350 1,600 3,300 2,600 1,900 1,300 5,200 4,600 3,900 3,500 2,700 5,700 1,732 1,581 2,050 1,870 1,463 1,900 1,700 1,350 3,300 3,000 2,600 1,900 1,700 3,500 2,400 2,700 2,100 5,600 5,200 4,600 3,900 3,500 3,200 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Rated Voltage VDC at 105°C
+
+Not all parts are 105°C rated 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+
+Rated Voltage
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 15 15
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 220 220 220 220 220 220 220 220 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 470 470 470 470 470 470 470 470 470 470 470 470 680 680 680 KEMET/EIA (See below for part options) V/7343-19 T520V227M004A(3)E025 V/7343-19 T520V227M004A(3)E040 V/7343-19 T520V227M004A(3)E045 D/7343-31 T520D227M004A(3)E006 D/7343-31 T520D227M004A(3)E007 D/7343-31 T520D227M004A(3)E012 D/7343-31 T525D227M004A(3)E025 D/7343-31 T520D227M004A(3)E065 C/6032-28 T520C337M004A(3)E025 C/6032-28 T520C337M004A(3)E045 V/7343-19 T520V337M004A(3)E007 V/7343-19 T520V337M004A(3)E009 T520V337M004A(3)E012 V/7343-19 T520V337M004A(3)E018 V/7343-19 V/7343-19 T520V337M004A(3)E025 V/7343-19 T520V337M004A(3)E040 D/7343-31 T530D337M004A(3)E005 D/7343-31 T520D337M004A(3)E006 D/7343-31 T530D337M004A(3)E006 D/7343-31 T520D337M004A(3)E007 D/7343-31 T520D337M004A(3)E009 D/7343-31 T520D337M004A(3)E012 D/7343-31 T520D337M004A(3)E015 D/7343-31 T525D337M004A(3)E025 D/7343-31 T520D337M004A(3)E040 D/7343-31 T520D337M004A(3)E045 D/7343-31 T530D477M004A(3)E006 D/7343-31 T520D477M004A(3)E010 D/7343-31 T530D477M004A(3)E010 D/7343-31 T520D477M004A(3)E012 D/7343-31 T520D477M004A(3)E015 D/7343-31 T520D477M004A(3)E018 D/7343-31 T520D477M004A(3)E025 D/7343-31 T525D477M004A(3)E025 D/7343-31 T520D477M004A(3)E040 D/7343-31 T525D477M004A(3)E040 Y/7343-40 T530Y477M004A(3)E005 Y/7343-40 T530Y477M004A(3)E006 D/7343-31 T520D687M004A(3)E012 D/7343-31 T520D687M004A(3)E015 D/7343-31 T520D687M004A(3)E025 µA at 25°C Maximum/ 5 Minutes 88 88 88 88 88 88 88 88 132 132 132 132 132 132 132 132 132 132 132 132 132 132 132 132 132 132 188 188 188 188 188 188 188 188 188 188 188 188 272 272 272 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 10 10 10 10 10 10 10 10 8 8 10 10 10 10 10 10 8 10 8 10 10 10 10 10 10 10 8 10 8 10 10 10 10 10 10 10 8 8 10 10 10 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 25 40 45 6 7 12 25 65 25 45 7 9 12 18 25 40 5 6 6 7 9 12 15 25 40 45 6 10 10 12 15 18 25 25 40 40 5 6 12 15 25 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 2,700 2,200 2,000 6,100 5,700 4,300 3,000 1,900 2,600 1,900 5,200 4,600 3,900 3,200 2,700 2,200 7,100 6,100 6,500 5,700 5,000 4,300 3,900 3,000 2,400 2,200 6,500 4,700 5,000 4,300 3,900 3,500 3,000 3,000 2,400 2,400 7,300 6,600 4,300 3,900 3,000 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 105 105 125 105 105 105 105 105 105 105 105 105 125 105 125 105 105 105 105 125 105 105 125 105 125 105 105 105 105 125 105 125 125 125 105 105 105 3 3 3 3 3 3 5 3 3 3 3 3 3 3 3 3 5 3 5 3 3 3 3 5 3 3 5 3 5 3 3 3 3 5 3 5 5 5 3 3 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Rated Voltage VDC at 105°C
+
+Not all parts are 105°C rated 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+
+Rated Voltage
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 16 16
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 680 680 680 680 680 680 680 680 680 680 680 1000 15 10 22 22 22 22 22 33 33 33 33 33 33 33 33 33 33 47 47 47 47 47 47 47 47 47 47 47 47 KEMET/EIA (See below for part options) Y/7343-40 T530Y687M004A(3)E005 T520Y687M004A(3)E010 Y/7343-40 Y/7343-40 T520Y687M004A(3)E015 Y/7343-40 T520Y687M004A(3)E025 X/7343-43 T530X687M004A(3)E004 X/7343-43 T530X687M004A(3)E005 X/7343-43 T530X687M004A(3)E006 X/7343-43 T520X687M004A(3)E010 X/7343-43 T530X687M004A(3)E010 X/7343-43 T520X687M004A(3)E015 X/7343-43 T520X687M004A(3)E035 X/7343-43 T530X108M004A(3)E006 T520T156M006A(3)E100 T/3528-12 T529P106M006AAE200 ^ P/2012-10 P/2012-10 T529P226M006AAE150 ^ P/2012-10 T529P226M006AAE200 ^ T520A226M006ATE090 ^ A/3216-18 T520A226M006ATE100 ^ A/3216-18 T/3528-12 T520T226M006A(3)E100 A/3216-18 T520A336M006A(3)E070 ^ A/3216-18 T520A336M006A(3)E080 ^ A/3216-18 T520A336M006A(3)E120 ^ T/3528-12 T520T336M006A(3)E070 B/3528-21 T520B336M006A(3)E025 B/3528-21 T520B336M006A(3)E035 B/3528-21 T520B336M006A(3)E040 B/3528-21 T520B336M006A(3)E070 B/3528-21 T525B336M006A(3)E080 C/6032-28 T520C336M006A(3)E100 T529P476M006AAE200 ^ P/2012-10 T529P476M006AAE150 ^ P/2012-10 TF08A476M006APE150 ^ 3216-08 T527I476M006ATE200 ^ I/3216-10 T520A476M006ATE150 ^ A/3216-18 T520T476M006A(3)E040 T/3528-12 T520T476M006A(3)E070 T/3528-12 T525T476M006A(3)E080 T/3528-12 T520B476M006A(3)E025 B/3528-21 B/3528-21 T520B476M006A(3)E035 B/3528-21 T520B476M006A(3)E040 T520B476M006A(3)E070 B/3528-21 µA at 25°C Maximum/ 5 Minutes 272 272 272 272 272 272 272 272 272 272 272 400 9.45 18.9 22 22 13.86 13.86 13.86 20.79 20.79 20.79 20.79 20.79 20.79 20.79 20.79 20.79 20.79 29.61 29.6 29.6 29.6 29.61 29.61 29.61 29.61 29.61 29.61 29.61 29.61 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 10 10 10 8 8 8 10 8 10 10 8 8 6 * 6 * 6 * 8 * 8 * 8 8 * 8 * 8 * 8 8 8 8 8 8 8 6 * 6 * 10 * 6 * 8 * 8 8 8 8 8 8 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 5 10 15 25 4 5 6 10 10 15 35 6 100 200 150 200 90 100 100 70 80 120 70 25 35 40 70 80 100 200 150 150 200 150 40 70 80 25 35 40 70 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 7,300 4,900 4,000 3,100 8,200 7,300 6,700 5,000 5,200 4,100 2,700 6,700 1,000 354 408 354 1,100 1,100 1,000 1,300 1,200 1,000 1,220 2,300 1,900 1,800 1,350 1,300 1,300 354 408 632 548 900 1,600 1,220 1,100 2,300 1,900 1,800 1,350 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 1,000 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 1,000 1,000 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 125 105 105 105 125 125 125 105 125 105 105 125 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 125 105 105 105 105 105 105 105 105 125 105 105 105 105 5 3 3 3 5 5 5 3 5 3 3 5 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 3 4 4 3 3 3 3 3 5 3 3 3 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 4 4 4 4 4 4 4 4 4 4 4 4 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 17 17
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 47 47 68 68 68 68 68 68 68 68 68 68 68 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 120 150 KEMET/EIA (See below for part options) T525B476M006A(3)E070 B/3528-21 T525B476M006A(3)E080 B/3528-21 T520A686M006ATE150 ^ A/3216-18 T520T686M006A(3)E070 T/3528-12 T/3528-12 T520T686M006A(3)E150 B/3528-21 T520B686M006A(3)E025 B/3528-21 T520B686M006A(3)E035 B/3528-21 T520B686M006A(3)E040 B/3528-21 T520B686M006A(3)E070 B/3528-21 T525B686M006A(3)E080 T520U686M006A(3)E055 U/6032-15 T520U686M006A(3)E070 U/6032-15 C/6032-28 T520C686M006A(3)E100 T527I107M006ATE200 ^ I/3216-10 T527I107M006ATE100 ^ I/3216-10 T527I107M006ATE070 ^ I/3216-10 T527I107M006ATE055 ^ I/3216-10 T520A107M006ATE070 ^ A/3216-18 T520A107M006ATE045 ^ A/3216-18 T520A107M006ATE035 ^ A/3216-18 T520A107M006ATE025 ^ A/3216-18 T520T107M006APE070 T/3528-12 T520T107M006APE055 T/3528-12 T520B107M006A(3)E015 B/3528-21 T520B107M006A(3)E018 B/3528-21 T520B107M006A(3)E025 B/3528-21 T520B107M006A(3)E035 B/3528-21 T520B107M006A(3)E040 B/3528-21 T520B107M006A(3)E045 B/3528-21 T520B107M006A(3)E070 B/3528-21 U/6032-15 T520U107M006A(3)E055 W/7343-15 T520W107M006A(3)E040 T520V107M006A(3)E007 V/7343-19 T520V107M006A(3)E009 V/7343-19 T520V107M006A(3)E012 V/7343-19 T520V107M006A(3)E015 V/7343-19 T520V107M006A(3)E045 V/7343-19 C/6032-28 T520C107M006A(3)E025 C/6032-28 T520C107M006A(3)E045 T520B127M006A(3)E035 B/3528-21 M/3528-15 T520M157M006A(3)E035 µA at 25°C Maximum/ 5 Minutes 29.61 29.61 42.84 42.84 42.84 42.84 42.84 42.84 42.84 42.84 42.84 42.84 42.84 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 63.0 75.6 94.5 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 8 * 8 8 8 8 8 8 8 8 8 8 8 * 8 * 8 * 8 * 8 * 8 * 8 * 8 * 8 8 8 8 8 8 8 8 8 8 10 10 10 10 10 10 8 8 8 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 70 80 150 70 150 25 35 40 70 80 55 70 100 200 100 70 55 70 45 35 25 70 55 15 18 25 35 40 45 70 55 40 7 9 12 15 45 25 45 35 35 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 1,300 1,300 900 1,220 800 2,300 1,900 1,800 1,350 1,300 1,600 1,400 1,300 775 775 1,134 1,044 1,035 1,600 1,500 1,732 1,220 1,200 2,900 2,700 2,300 1,900 1,800 1,700 1,350 1,600 2,100 5,170 4,600 3,900 3,500 2,000 2,600 1,900 1,900 1,900 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 1,000 1,000 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 125 125 105 105 105 105 105 105 105 125 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 5 5 3 3 3 3 3 3 3 5 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 18 18
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 220 220 220 220 220 220 KEMET/EIA (See below for part options) M/3528-15 T520M157M006A(3)E070 M/3528-15 T520M157M006A(3)E150 M/3528-15 T520M157M006A(3)E200 T520B157M006A(3)E018 B/3528-21 T520B157M006A(3)E025 B/3528-21 T520B157M006A(3)E035 B/3528-21 T520B157M006A(3)E045 B/3528-21 T520B157M006A(3)E070 B/3528-21 T523T157M006APE030 T/3528-12 T520T157M006ATE035 ^ T/3528-12 T520C157M006A(3)E015 C/6032-28 T520C157M006A(3)E025 C/6032-28 C/6032-28 T520C157M006A(3)E045 T520C157M006A(3)E055 C/6032-28 T520U157M006A(3)E045 U/6032-15 T520U157M006A(3)E055 U/6032-15 T520L157M006A(3)E012 L/6032-19 T520L157M006A(3)E025 L/6032-19 W/7343-15 T520W157M006A(3)E025 W/7343-15 T520W157M006A(3)E040 T520V157M006A(3)E006 V/7343-19 T520V157M006A(3)E007 V/7343-19 T520V157M006A(3)E009 V/7343-19 T520V157M006A(3)E012 V/7343-19 T520V157M006A(3)E015 V/7343-19 T520V157M006A(3)E018 V/7343-19 T520V157M006A(3)E025 V/7343-19 T520V157M006A(3)E040 V/7343-19 T520V157M006A(3)E045 V/7343-19 D/7343-31 T520D157M006A(3)E006 D/7343-31 T520D157M006A(3)E007 D/7343-31 T520D157M006A(3)E015 D/7343-31 T520D157M006A(3)E025 D/7343-31 T525D157M006A(3)E025 D/7343-31 T520D157M006A(3)E055 M/3528-15 T520M227M006ATE035 ^ B/3528-21 T520B227M006A(3)E025 B/3528-21 T520B227M006A(3)E035 B/3528-21 T520B227M006A(3)E045 B/3528-21 T520B227M006A(3)E070 C/6032-28 T520C227M006A(3)E015 µA at 25°C Maximum/ 5 Minutes 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 94.5 138.6 138.6 138.6 138.6 138.6 138.6 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 8 9 8 8 8 8 8 8 * 8 8 8 8 8 8 8 8 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 * 8 8 8 8 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 70 150 200 18 25 35 45 70 30 35 15 25 45 55 45 55 12 25 25 40 6 7 9 12 15 18 25 40 45 6 7 15 25 25 55 35 25 35 45 70 15 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 1,310 900 800 2,700 2,300 1,900 1,700 1,300 1,870 1,700 3,300 2,600 1,900 1,700 1,700 1,600 3,500 2,400 2,700 2,100 5,600 5,200 4,600 3,900 3,500 3,200 2,700 2,200 2,000 6,100 5,700 3,900 3,000 3,000 2,000 1,512 2,300 1,900 1,700 1,300 3,300 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 125 105 105 105 105 105 105 105 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 3 3 3 3 3 3 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 19 19
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 220 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 330 KEMET/EIA (See below for part options) C/6032-28 T520C227M006A(3)E018 C/6032-28 T520C227M006A(3)E025 C/6032-28 T520C227M006A(3)E045 V/7343-19 T520V227M006A(3)E007 V/7343-19 T520V227M006A(3)E009 T520V227M006A(3)E012 V/7343-19 T520V227M006A(3)E015 V/7343-19 T520V227M006A(3)E018 V/7343-19 V/7343-19 T520V227M006A(3)E025 V/7343-19 T520V227M006A(3)E040 D/7343-31 T530D227M006A(3)E005 D/7343-31 T520D227M006A(3)E006 D/7343-31 T530D227M006A(3)E006 D/7343-31 T520D227M006A(3)E007 D/7343-31 T520D227M006A(3)E009 D/7343-31 T520D227M006A(3)E015 D/7343-31 T520D227M006A(3)E018 D/7343-31 T520D227M006A(3)E025 D/7343-31 T525D227M006A(3)E025 D/7343-31 T520D227M006A(3)E040 D/7343-31 T520D227M006A(3)E050 B/3528-21 T520B337M006A(3)E040 T520B337M006ATE045 ^ B/3528-21 T520B337M006A(3)E070 B/3528-21 T520V337M006A(3)E015 V/7343-19 T520V337M006A(3)E018 V/7343-19 V/7343-19 T520V337M006A(3)E025 V/7343-19 T520V337M006A(3)E040 T520V337M006A(3)E045 V/7343-19 D/7343-31 T530D337M006A(3)E006 D/7343-31 T520D337M006A(3)E009 D/7343-31 T520D337M006A(3)E010 D/7343-31 T530D337M006A(3)E010 D/7343-31 T520D337M006A(3)E015 D/7343-31 T520D337M006A(3)E018 D/7343-31 T520D337M006A(3)E025 D/7343-31 T525D337M006A(3)E025 D/7343-31 T520D337M006A(3)E040 D/7343-31 T525D337M006A(3)E040 D/7343-31 T520D337M006A(3)E045 Y/7343-40 T530Y337M006A(3)E005 µA at 25°C Maximum/ 5 Minutes 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 138.6 207.9 415.8 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 207.9 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 8 10 10 10 10 10 10 10 8 10 8 10 10 10 10 10 10 10 10 8 10 * 8 10 10 10 10 10 8 10 10 8 10 10 10 10 10 10 10 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 18 25 45 7 9 12 15 18 25 40 5 6 6 7 9 15 18 25 25 40 50 40 45 70 15 18 25 40 45 6 9 10 10 15 18 25 25 40 40 45 5 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 3,000 2,600 1,900 5,200 4,600 3,900 3,500 3,200 2,700 2,200 7,100 6,100 6,500 5,700 5,000 3,900 3,500 3,000 3,000 2,400 2,100 1,800 1,374 1,350 3,500 3,200 2,700 2,200 2,000 6,500 5,000 4,700 5,000 3,900 3,500 3,000 3,000 2,400 2,400 2,200 7,300 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 105 105 105 105 105 105 125 105 125 105 105 105 105 105 125 105 105 105 85 105 105 105 105 105 105 125 105 105 125 105 105 105 125 105 125 105 125 3 3 3 3 3 3 3 3 3 3 5 3 5 3 3 3 3 3 5 3 3 3 1 3 3 3 3 3 3 5 3 3 5 3 3 3 5 3 5 3 5 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 20 20
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 330 330 330 330 330 330 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 470 680 680 680 680 680 680 680 680 680 1000 1200 1500 22 KEMET/EIA (See below for part options) Y/7343-40 T530Y337M006A(3)E006 T520Y337M006A(3)E010 Y/7343-40 T530Y337M006A(3)E010 Y/7343-40 Y/7343-40 T520Y337M006A(3)E015 Y/7343-40 T520Y337M006A(3)E025 Y/7343-40 T520Y337M006A(3)E040 W/7343-15 T520W477M006A(3)E055 W/7343-15 T520W477M006A(3)E035 T520V477M006A(3)E055 V/7343-19 T520V477M006A(3)E035 V/7343-19 T530Y477M006A(3)E005 Y/7343-40 T520Y477M006A(3)E010 Y/7343-40 T520Y477M006A(3)E015 Y/7343-40 T520Y477M006A(3)E018 Y/7343-40 T520Y477M006A(3)E025 Y/7343-40 T520Y477M006A(3)E035 Y/7343-40 Y/7343-40 T525Y477M006A(3)E035 D/7343-31 T520D477M006A(3)E015 D/7343-31 T520D477(2)006A(3)E025 D/7343-31 T520D477M006A(3)E030 X/7343-43 T530X477M006A(3)E004 X/7343-43 T530X477M006A(3)E005 X/7343-43 T530X477M006A(3)E006 X/7343-43 T520X477M006A(3)E010 X/7343-43 T530X477M006A(3)E010 X/7343-43 T520X477M006A(3)E018 X/7343-43 T520X477M006A(3)E035 X/7343-43 T520X477M006A(3)E040 T520V687M006A(3)E025 V/7343-19 T520V687M006A(3)E035 V/7343-19 Y/7343-40 T520Y687M006A(3)E018 Y/7343-40 T520Y687M006A(3)E025 X/7343-43 T530X687M006A(3)E010 X/7343-43 T530X687M006A(3)E018 X/7343-43 T520X687M006A(3)E025 X/7343-43 T520X687M006A(3)E018 J/7360-15 T523J687M006APE070 H/7360-20 T520H108M006A(3)E055 H/7360-20 T520H128M006A(3)E070 H/7360-20 T520H158M006A(3)E055 T520T226M008A(3)E070 T/3528-12 µA at 25°C Maximum/ 5 Minutes 207.9 207.9 207.9 207.9 207.9 207.9 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 296.1 428.4 428.4 428.4 428.4 428.4 428.4 428.4 428.0 428.0 630.0 756.0 945.0 17.6 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 10 8 10 10 10 10 9 10 10 8 10 10 10 10 10 10 10 10 10 8 8 8 10 8 10 10 10 10 10 10 10 8 8 10 10 10 20 20 20 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 6 10 10 15 25 40 55 35 55 35 5 10 15 18 25 35 35 15 25 30 4 5 6 10 10 18 35 40 25 35 18 25 10 18 25 18 70 55 70 55 70 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 6,600 4,900 5,100 4,000 3,100 2,500 1,800 2,300 1,800 2,300 7,300 4,900 4,000 3,700 3,100 2,600 2,600 3,900 3,000 2,700 8,200 7,300 6,700 5,000 5,200 3,700 2,700 2,500 3,100 2,300 3,700 3,100 5,200 3,900 3,100 3,700 2,510 1,800 1,200 1,800 1,220 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 125 105 125 105 105 105 85 85 105 105 125 105 105 105 105 105 125 105 105 105 125 125 125 105 125 105 105 105 105 105 105 105 125 125 105 105 85 85 85 85 105 5 3 5 3 3 3 1 1 3 3 5 3 3 3 3 3 5 3 3 3 5 5 5 3 5 3 3 3 3 3 3 3 5 5 3 3 1 1 1 1 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 8
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 21 21
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 33 33 33 33 33 33 33 33 47 47 82 82 150 150 150 150 10 10 10 15 22 22 22 22 22 33 33 33 33 33 33 33 33 33 33 33 47 47 47 47 47 KEMET/EIA (See below for part options) T520T336M008A(3)E070 T/3528-12 T520T336M008A(3)E080 T/3528-12 T/3528-12 T525T336M008A(3)E080 B/3528-21 T520B336M008A(3)E025 B/3528-21 T520B336M008A(3)E035 B/3528-21 T520B336M008A(3)E040 T520B336M008A(3)E070 B/3528-21 T520U336M008A(3)E070 U/6032-15 T520B476M008A(3)E035 B/3528-21 B/3528-21 T520B476M008A(3)E070 C/6032-28 T520C826M008A(3)E025 C/6032-28 T520C826M008A(3)E045 D/7343-31 T520D157M008A(3)E025 D/7343-31 T520D157M008A(3)E040 D/7343-31 T520D157M008A(3)E055 T520V157M008A(3)E040 V/7343-19 T529P106M010AAE200 ^ P/2012-10 T520A106M010ATE080 ^ A/3216-18 T525A106M010A(3)E080 A/3216-18 T520A156M010ATE080 ^ A/3216-18 T529P226M010AAE150 ^ P/2012-10 T529P226M010AAE200 ^ P/2012-10 I/3216-10 T527I226M010ATE200 ^ A/3216-18 T520A226M010A(3)E080 ^ T525B226M010A(3)E080 B/3528-21 T527I336M010ATE200 ^ I/3216-10 T520T336M010A(3)E040 T/3528-12 T520T336M010A(3)E070 T/3528-12 T520T336M010A(3)E080 T/3528-12 T525T336M010A(3)E080 T/3528-12 T520B336M010A(3)E025 B/3528-21 T520B336M010A(3)E035 B/3528-21 T520B336M010A(3)E040 B/3528-21 T520B336M010A(3)E070 B/3528-21 T525B336M010A(3)E080 B/3528-21 T520U336M010A(3)E070 U/6032-15 T527I476M010ATE200 ^ I/3216-10 T520A476M010ATE045 ^ A/3216-18 T520B476M010A(3)E035 B/3528-21 T520B476M010A(3)E070 B/3528-21 T520U476M010A(3)E055 U/6032-15 µA at 25°C Maximum/ 5 Minutes 26.4 26.4 26.4 26.4 26.4 26.4 26.4 26.4 37.6 37.6 65.6 65.6 120 120 120 120 30 10 10 15 66 66 22 22 22 33 33 33 33 33 33 33 33 33 33 33 47 47 47 47 47 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 8 8 8 8 8 8 8 8 8 8 10 10 10 10 6 * 8 * 8 8 * 6 * 6 * 8 * 8 * 8 6 * 8 8 8 8 8 8 8 8 8 8 6 * 8 * 8 8 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 70 80 80 25 35 40 70 70 35 70 25 45 25 40 55 40 200 80 80 80 150 200 200 80 80 200 40 70 80 80 25 35 40 70 80 70 200 45 35 70 55 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 1,220 1,100 1,100 2,300 1,900 1,800 1,350 1,400 1,900 1,350 2,600 1,900 3,000 2,400 2,000 2,200 354 1,200 1,200 1,200 408 354 548 1,200 1,300 548 1,600 1,220 1,100 1,100 2,300 1,900 1,800 1,350 1,300 1,400 548 1,291 1,900 1,350 1,600 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 2,000 2,000 2,000 1,000 1,000 1,000 2,000 2,000 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 125 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 125 105 105 105 105 105 125 105 105 105 105 125 105 105 105 105 125 105 105 105 105 105 105 3 3 5 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 3 3 3 3 3 5 3 3 3 3 5 3 3 3 3 5 3 3 3 3 3 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Rated Voltage VDC at 105°C
+
+Not all parts are 105°C rated 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+
+Rated Voltage
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 22 22
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 47 68 68 68 68 68 68 68 68 68 68 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 KEMET/EIA (See below for part options) T520C476M010A(3)E100 C/6032-28 U/6032-15 T520U686M010A(3)E055 W/7343-15 T520W686M010A(3)E025 W/7343-15 T520W686M010A(3)E040 C/6032-28 T520C686M010A(3)E045 T520V686M010A(3)E025 V/7343-19 T520V686M010A(3)E040 V/7343-19 T520V686M010A(3)E045 V/7343-19 T520V686M010A(3)E060 V/7343-19 V/7343-19 T520V686M010A(3)E100 D/7343-31 T520D686M010A(3)E100 T520B107M010ATE070 ^ B/3528-21 T520C107M010A(3)E025 C/6032-28 T520C107M010A(3)E045 C/6032-28 L/6032-19 T520L107M010A(3)E025 W/7343-15 T520W107M010A(3)E040 T520V107M010A(3)E018 V/7343-19 T520V107M010A(3)E025 V/7343-19 T520V107M010A(3)E045 V/7343-19 T520V107M010A(3)E050 V/7343-19 T520V107M010A(3)E055 V/7343-19 T520D107M010A(3)E018 D/7343-31 T525D107M010A(3)E025 D/7343-31 T520D107M010A(3)E055 D/7343-31 T525D107M010A(3)E055 D/7343-31 T520D107M010A(3)E080 D/7343-31 T520C157M010A(3)E055 C/6032-28 T520V157M010A(3)E018 V/7343-19 T520V157M010A(3)E025 V/7343-19 V/7343-19 T520V157M010A(3)E040 D/7343-31 T530D157M010A(3)E005 D/7343-31 T530D157M010A(3)E006 T530D157M010A(3)E010 D/7343-31 T520D157M010A(3)E015 D/7343-31 T520D157M010A(3)E018 D/7343-31 T520D157M010A(3)E025 D/7343-31 D/7343-31 T525D157M010A(3)E025 D/7343-31 T520D157M010A(3)E040 T520D157M010A(3)E055 D/7343-31 T525D157M010A(3)E055 D/7343-31 T520Y157M010A(3)E015 Y/7343-40 µA at 25°C Maximum/ 5 Minutes 47 68 68 68 68 68 68 68 68 68 68 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 10 10 8 10 10 10 10 10 10 8 * 8 8 8 10 10 10 10 10 10 10 10 10 10 10 8 10 10 10 8 8 8 10 10 10 10 10 10 10 10 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 100 55 25 40 45 25 40 45 60 100 100 70 25 45 25 40 18 25 45 50 55 18 25 55 55 80 55 18 25 40 5 6 10 15 18 25 25 40 55 55 15 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 1,300 1,600 2,700 2,100 1,900 2,700 2,200 2,000 1,800 1,400 1,500 1,300 2,600 1,900 2,400 2,100 3,200 2,700 2,000 1,900 1,800 3,500 3,000 2,000 2,000 1,700 1,700 3,200 2,700 2,200 7,100 6,500 5,000 3,900 3,500 3,000 3,000 2,400 2,000 2,000 4,000 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 125 105 125 105 105 105 105 105 125 125 125 105 105 105 125 105 105 125 105 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 3 5 3 3 3 3 3 5 5 5 3 3 3 5 3 3 5 3 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Rated Voltage VDC at 105°C
+
+Not all parts are 105°C rated 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+
+Rated Voltage
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 23 23
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 150 150 220 220 220 220 220 220 220 220 220 220 220 330 330 330 330 330 330 330 330 330 330 330 330 330 470 470 820 330 47 10 10 15 47 10 10 10 10 15 22 KEMET/EIA (See below for part options) T520Y157M010A(3)E018 Y/7343-40 T520Y157M010A(3)E025 Y/7343-40 T520V227M010A(3)E040 V/7343-19 T520V227M010A(3)E045 V/7343-19 V/7343-19 T520V227M010A(3)E025 D/7343-31 T530D227M010A(3)E006 D/7343-31 T530D227M010A(3)E010 D/7343-31 T520D227M010A(3)E018 D/7343-31 T520D227M010A(3)E025 D/7343-31 T525D227M010A(3)E025 D/7343-31 T520D227M010A(3)E040 T530Y227M010A(3)E006 Y/7343-40 Y/7343-40 T520Y227M010A(3)E040 T520Y337M010A(3)E015 Y/7343-40 T520Y337M010A(3)E025 Y/7343-40 T520Y337M010A(3)E035 Y/7343-40 T525Y337M010A(3)E025 Y/7343-40 T525Y337M010A(3)E035 Y/7343-40 X/7343-43 T530X337M010A(3)E004 X/7343-43 T530X337M010A(3)E005 X/7343-43 T530X337M010A(3)E006 X/7343-43 T520X337M010A(3)E010 X/7343-43 T530X337M010A(3)E010 X/7343-43 T520X337M010A(3)E025 X/7343-43 T520X337M010A(3)E035 J/7360-15 T523J337M010APE070 X/7343-43 T530X477M010A(3)E020 J/7360-15 T523J477M010APE070 H/7360-20 T520H827M010A(3)E070 X/7343-43 T520X337M010A(3)E040 Q/7343-12 T520Q476M011A(3)E040 T520T106M12RA(3)E080 T/3528-12 T520T106M12RA(3)E150 T/3528-12 T520T156M12RA(3)E080 T/3528-12 T521T476M12RA(3)E090 T/3528-12 T529P106M016AAE150 ^ P/2012-10 A/3216-18 T521A106M016ATE200 ^ B/3528-21 T520B106M016A(3)E100** T521B106M016A(3)E100 B/3528-21 T521B156M016A(3)E090 B/3528-21 TF08A226M016APE200 ^ 3216-08 µA at 25°C Maximum/ 5 Minutes 150 150 220 220 220 220 220 220 220 220 220 220 220 330 330 330 330 330 330 330 330 330 330 330 330 330 470 470 820 330 52 12.5 12.5 18.75 58.8 80 16 16 16 24 70.4 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 10 10 10 10 10 8 8 10 10 10 10 8 10 10 10 10 10 10 8 8 8 10 8 10 10 10 10 10 20 10 10 8 8 8 8 6 * 8 * 8 8 8 10 * % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 18 25 40 45 25 6 10 18 25 25 40 6 40 15 25 35 25 35 4 5 6 10 10 25 35 70 20 70 70 40 40 80 150 80 90 150 200 100 100 90 200 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 3,700 3,100 2,200 2,000 2,700 6,500 5,000 3,500 3,000 3,000 2,400 6,600 2,500 4,000 3,100 2,600 3,100 2,600 8,200 7,300 6,700 5,000 5,200 3,100 2,700 2,510 3,670 2,510 1,200 2,500 4,500 1,100 800 1,100 1,330 408 612 1,100 1,410 1,490 548 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 2,000 2,000 2,000 2,000 1,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 Reflow Temp ≤ 260°C °C 105 105 105 105 105 125 125 105 105 125 105 125 105 105 105 105 125 125 125 125 125 105 125 105 105 85 125 85 85 105 105 105 105 105 105 105 105 105 125 105 105 3 3 3 3 3 5 5 3 3 5 3 5 3 3 3 3 5 5 5 5 5 3 5 3 3 1 5 1 1 3 4 4 4 4 4 4 4 4 5 4 4 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Rated Voltage VDC at 105°C
+
+Not all parts are 105°C rated 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 12.5 12.5 12.5 12.5 16 16 16 16 16 16
+
+Rated Voltage
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 24 24
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 22 22 33 33 33 33 33 33 33 33 33 33 33 33 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 68 68 68 68 68 68 KEMET/EIA (See below for part options) T521B226M016A(3)E090 B/3528-21 T520C226M016A(3)E080 C/6032-28 T527S336M016ATE200 ^ S/3216-12 T521T336M016A(3)E045 T/3528-12 T521T336M016A(3)E050 T/3528-12 T521B336M016A(3)E070 B/3528-21 T521B336M016A(3)E090 B/3528-21 T525B336M016A(3)E070 B/3528-21 B/3528-21 T525B336M016A(3)E090 Q/7343-12 T521Q336M016A(3)E040 W/7343-15 T520W336M016A(3)E045 T520V336M016A(3)E045 V/7343-19 T520V336M016A(3)E060 V/7343-19 T520V336M016A(3)E070 V/7343-19 T523T476M016APE090 T/3528-12 T521B476M016A(3)E055 B/3528-21 B/3528-21 T521B476M016A(3)E090 W/7343-15 T521W476M016A(3)E040 W/7343-15 T520W476M016A(3)E045** W/7343-15 T521W476M016A(3)E045 T521V476M016A(3)E040 V/7343-19 T520V476M016A(3)E045 V/7343-19 V/7343-19 T521V476M016A(3)E055 V/7343-19 T520V476M016A(3)E070** T521V476M016A(3)E070 V/7343-19 V/7343-19 T521V476M016A(3)E080 D/7343-31 T520D476M016A(3)E035 D/7343-31 T525D476M016A(3)E035 T521D476M016A(3)E040 D/7343-31 T521D476M016A(3)E045 D/7343-31 D/7343-31 T521D476M016A(3)E055 D/7343-31 T525D476M016A(3)E065 D/7343-31 T520D476M016A(3)E070** T521D476M016A(3)E070 D/7343-31 T521D476M016A(3)E090 D/7343-31 T523W686M016APE050 W/7343-15 T523W686M016APE070 W/7343-15 T523W686M016APE100 W/7343-15 T521V686M016A(3)E040 V/7343-19 T521V686M016A(3)E050 V/7343-19 T521V686M016A(3)E090 V/7343-19 µA at 25°C Maximum/ 5 Minutes 35.2 35.2 54 52.8 52.8 52.8 52.8 52.8 52.8 52.8 52.8 52.8 52.8 52.8 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 75.2 108.8 108.8 108.8 108.8 108.8 108.8 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 10 * 8 10 8 8 8 8 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 90 80 200 45 50 70 90 70 90 40 45 45 60 70 90 55 90 40 45 45 40 45 55 70 70 80 35 35 40 45 55 65 70 70 90 50 70 100 40 50 90 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 1,490 1,400 548 1,890 1,790 1,690 1,490 1,300 1,200 2,500 2,000 2,000 1,800 1,600 1,080 1,900 1,490 2,530 2,000 2,380 2,560 2,000 2,220 1,600 1,960 1,840 2,500 2,500 2,810 2,650 2,390 1,900 1,800 2,120 1,870 2,820 2,376 1,988 2,600 2,320 1,730 (Hours) 2,000 2,000 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 4 3 3 3 3 3 3 3 3 3 3 3 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 105 105 105 125 125 105 105 105 105 105 85 125 125 105 105 105 125 105 125 105 125 125 105 125 125 125 125 125 105 125 125 105 105 105 125 125 125 4 4 4 4 4 4 4 6 6 4 4 4 4 4 2 5 5 4 4 4 5 4 5 4 5 5 4 6 5 5 5 6 4 5 5 4 4 4 5 5 5 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Rated Voltage VDC at 105°C
+
+Not all parts are 105°C rated 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16
+
+Rated Voltage
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 25 25
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 68 100 100 100 100 100 100 100 100 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 150 220 220 220 220 220 220 220 330 330 330 330 330 330 470 470 KEMET/EIA (See below for part options) D/7343-31 T520D686M016A(3)E050 T523W107M016APE050 W/7343-15 T523W107M016APE070 W/7343-15 T523W107M016APE100 W/7343-15 T521V107M016A(3)E040 V/7343-19 T521V107M016A(3)E050 V/7343-19 T521V107M016ATK050 V/7343-20 T521V107M016ATI050 V/7343-20 T521D107M016A(3)E050 D/7343-31 T523W157M016APE050 W/7343-15 T523W157M016APE070 W/7343-15 T523W157M016APE100 W/7343-15 T521V157M016ATE040 V/7343-20 T521V157M016ATE050 V/7343-20 T521V157M016ATK050 V/7343-20 T521V157M016ATE070 V/7343-20 T521V157M016ATK070 V/7343-20 T521V157M016ATE100 V/7343-20 T521V157M016ATK100 V/7343-20 T521D157M016A(3)E050 D/7343-31 T521D157M016A(3)E040 D/7343-31 X/7343-43 T530X157M016A(3)E015 X/7343-43 T530X157M016A(3)E025 X/7343-43 T520X157M016A(3)E040 X/7343-43 T530X157M016A(3)E040 X/7343-43 T521X157M016A(3)E080 D/7343-31 T521D227M016A(3)E025 D/7343-31 T521D227M016A(3)E035 D/7343-31 T521D227M016A(3)E050 X/7343-43 T521X227M016A(3)E035 X/7343-43 T521X227M016A(3)E050 T523H227M016APE070 H/7360-20 J/7360-15 T523J227M016APE070 X/7343-43 T521X337M016A(3)E015 X/7343-43 T521X337M016A(3)E025 X/7343-43 T521X337M016A(3)K025 X/7343-43 T521X337M016A(3)E050 X/7343-43 T521X337M016A(3)K050 H/7360-20 T523H337M016APE070 X/7343-43 T521X477M016A(3)E020 X/7343-43 T521X477M016A(3)K020 µA at 25°C Maximum/ 5 Minutes 108.8 160 160 160 160 160 80 48 160 240 240 240 240 240 120 240 120 240 120 240 240 240 240 240 240 240 352 352 352 352 352 352 352 528 528 264 528 264 528 752 376 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 8 8 10 8 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 50 50 70 100 40 50 50 50 50 50 70 100 40 50 50 70 70 100 100 50 40 15 25 40 40 80 25 35 50 35 50 70 70 15 25 25 50 50 70 20 20 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 2,100 2,820 2,376 1,988 2,600 2,320 2,320 2,320 2,510 2,820 2,376 1,988 2,600 2,320 2,320 1,960 1,960 1,640 1,640 2,510 2,810 4,200 3,300 2,500 2,600 2,240 3,550 3,000 2,510 3,380 2,830 2,510 2,510 5,160 4,000 4,000 2,830 2,830 2,510 4,470 4,470 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 125 125 125 125 105 105 105 105 105 105 105 105 105 105 105 105 105 125 125 105 125 105 125 125 125 125 125 85 85 125 125 125 125 125 85 125 125 4 4 4 4 5 5 5 5 4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 4 6 4 5 5 5 5 5 2 2 5 5 5 5 5 2 5 5 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Rated Voltage VDC at 105°C
+
+Not all parts are 105°C rated 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16
+
+Rated Voltage
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 26 26
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 470 10 15 22 22 22 22 22 22 22 22 33 47 47 47 47 47 47 47 68 68 100 100 100 100 100 150 150 150 150 150 4.7 6.8 10 10 10 10 10 15 15 15 KEMET/EIA (See below for part options) T521X477M016A(3)I020 X/7343-43 T521B106M020A(3)E100 B/3528-21 T521B156M020A(3)E090 B/3528-21 B/3528-21 T521B226M020A(3)E090 W/7343-15 T521W226(2)020A(3)E040 W/7343-15 T521W226(2)020A(3)E055 W/7343-15 T521W226(2)020A(3)E070 T520V226M020A(3)E040 V/7343-19 V/7343-19 T520V226M020A(3)E045 V/7343-19 T520V226M020A(3)E090** T521V226M020A(3)E090 V/7343-19 T521B336M020ATE090 ^ B/3528-21 W/7343-15 T521W476M020A(3)E040 W/7343-15 T521W476K020A(3)E045 T521V476M020A(3)E090 V/7343-19 T521V476M020A(3)E080 V/7343-19 V/7343-19 T521V476M020A(3)E055 D/7343-31 T521D476M020A(3)E055 D/7343-31 T521D476M020A(3)E040 T521V686M020A(3)E050 V/7343-19 T523V686M020APE100 V/7343-20 T523W107M020APE050 W/7343-15 T523W107M020APE070 W/7343-15 T523W107M020APE100 W/7343-15 V/7343-19 T521V107M020A(3)E055 D/7343-31 T521D107(2)020A(3)E055 T523V157M020APE050 V/7343-20 T523V157M020APE070 V/7343-20 T523V157M020APE100 V/7343-20 T521D157M020A(3)E065 D/7343-31 T521D157M020A(3)E050 D/7343-31 T529P475M025AAE300 ^ P/2012-10 T521T685M025ATE100 ^ T/3528-12 T527S106M025ATE150 ^ S/3216-12 M/3528-15 T521M106M025ATE100 ^ T521B106M025A(3)E100 B/3528-21 T521T106M025A(3)E100 T/3528-12 T521T106M025A(3)E060 T/3528-12 T521B156M025ATE090 ^ B/3528-21 T521B156M025A(3)E100 B/3528-21 T527T156M025ATE100 ^ T/3528-12 µA at 25°C Maximum/ 5 Minutes 226 20 30 44 44 44 44 44 44 44 44 132 94 94 94 94 94 94 94 136 136 200 200 200 200 200 300 300 300 300 300 35.3 34 50 50 25 25 25 112.5 37.5 112.5 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 10 8 10 8 10 10 10 10 10 10 10 10 * 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 * 8 * 10 * 10 * 8 8 8 10 * 8 10 * % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 20 100 90 90 40 55 70 40 45 90 90 90 40 45 90 80 55 55 40 50 100 50 70 100 55 55 50 70 100 65 50 300 100 150 100 100 100 60 90 100 100 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 4,470 1,410 1,490 1,490 2,530 2,150 1,910 2,200 2,000 1,400 1,730 972 2,530 2,380 1,730 1,840 2,220 2,390 2,810 2,320 1,400 2,820 2,376 1,988 2,220 2,390 2,870 2,420 2,030 2,200 2,510 289 866 632 922 1,410 1,270 1,630 972 1,410 866 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 1,000 2,000 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 125 125 105 105 105 105 105 105 105 105 125 105 105 105 125 125 125 125 125 105 105 105 105 105 125 105 105 105 105 105 105 105 105 105 105 125 125 125 125 105 105 5 5 4 4 4 4 4 4 4 4 5 4 4 4 5 5 5 5 5 4 4 4 4 4 5 4 4 4 4 4 4 4 4 4 4 5 5 5 6 4 4 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Rated Voltage VDC at 105°C
+
+Not all parts are 105°C rated 16 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 25 25 25 25 25 25 25 25 25 25
+
+Rated Voltage
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 27 27
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 15 15 15 15 15 15 22 22 22 22 22 22 22 22 33 33 33 33 33 33 47 47 47 47 47 68 68 68 68 100 100 100 100 100 3.3 3.3 4.7 4.7 6.8 6.8 6.8 KEMET/EIA (See below for part options) K/3528-10 V/7343-19 T520V156M025A(1)E090** T521V156M025A(3)E090 V/7343-19 V/7343-19 T521V156M025A(3)E040 D/7343-31 T520D156M025A(3)E060 D/7343-31 T520D156M025A(3)E080 T527T226M025ATE100 ^ T/3528-12 B/3528-21 T521B226M025A(3)E100 W/7343-15 T521W226M025A(3)E040 W/7343-15 T521W226M025A(3)E070 T521V226M025A(3)E040 V/7343-19 T521V226M025A(3)E045 V/7343-19 T521V226M025A(3)E060 V/7343-19 T521V226M025A(3)E090 V/7343-19 T523W336M025APE100 W/7343-15 T521V336M025A(3)E025 V/7343-19 T521V336M025A(3)E060 V/7343-19 T521V336M025A(3)E040 V/7343-19 D/7343-31 T521D336M025A(3)E040 D/7343-31 T521D336M025A(3)E060 V/7343-20 T523V476M025APE100 D/7343-31 T521D476M025A(3)E065 T523W476M025APE050 W/7343-15 T523W476M025APE070 W/7343-15 T523W476M025APE100 W/7343-15 T523W686M025APE050 W/7343-15 T523W686M025APE070 W/7343-15 W/7343-15 T523W686M025APE100 D/7343-31 T521D686M025A(3)E070 D/7343-31 T521D107M025A(3)E040 D/7343-31 T521D107M025A(3)E050 D/7343-31 T521D107M025A(3)E060 X/7343-43 T521X107M025A(3)E030 X/7343-43 T521X107M025A(3)E060 T521B335M035A(3)E150 B/3528-21 T521B335M035A(3)E200 B/3528-21 T521B475M035A(3)E150 B/3528-21 T521B475M035A(3)E200 B/3528-21 T521T685M035APE090 T/3528-12 T521B685M035A(3)E150 B/3528-21 T521B685M035A(3)E200 B/3528-21 T527K156M025ATE150 ^ µA at 25°C Maximum/ 5 Minutes 75.0 37.5 37.5 37.5 37.5 37.5 165 55 55 55 55 55 55 55 82.5 82.5 82.5 82.5 82.5 82.5 117.5 117.5 117.5 117.5 117.5 170 170 170 170 250 250 250 250 250 11.6 11.6 16.5 16.5 23.8 23.8 23.8 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 10 * 10 10 10 10 10 10 * 8 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 8 8 8 8 10 8 8 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 150 90 90 40 60 80 100 100 40 70 40 45 60 90 100 25 60 40 40 60 100 65 50 70 100 50 70 100 70 40 50 60 30 60 150 200 150 200 90 150 200 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 633 1,400 1,730 2,560 1,900 1,700 886 1,410 2,530 1,910 2,560 2,450 2,120 1,730 1,988 3,290 2,120 2,560 2,810 2,290 1,400 2,200 2,820 2,376 1,988 2,820 2,376 1,988 2,120 2,810 2,510 2,290 3,650 2,580 1,160 1,000 1,160 1,000 1,330 1,160 1,000 (Hours) 1,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 105 105 105 105 105 125 105 105 105 105 105 105 105 105 105 105 125 125 105 125 105 105 105 105 105 105 125 125 125 125 105 105 105 105 105 105 125 105 105 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 4 4 5 5 4 5 4 4 4 4 4 4 5 5 5 5 4 4 4 4 4 4 5 4 4 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 35 35 35 35 35 35 35
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 28 28
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 10 10 10 15 15 22 22 22 33 33 47 47 47 47 47 56 56 68 0.68 1 1.5 2.2 3.3 5.6 5.6 5.6 5.6 6.8 6.8 6.8 6.8 10 10 10 18 18 18 18 22 22 22 KEMET/EIA (See below for part options) T521B106M035A(3)E150 B/3528-21 T521B106M035A(3)E200 B/3528-21 T521V106M035A(3)E120 V/7343-19 T521V156M035A(3)E100 V/7343-19 T521V156M035A(3)E125 V/7343-19 W/7343-15 T523W226M035APE100 D/7343-31 T521D226M035A(3)E040 D/7343-31 T521D226M035A(3)E060 V/7343-20 T523V336M035APE100 D/7343-31 T521D336M035A(3)E065 V/7343-20 T523V476M035APE100 X/7343-43 T521X476M035A(3)E030 X/7343-43 T521X476M035A(3)E070 T523W476M035APE090 W/7343-15 T523W476M035APE100 W/7343-15 T523W566M035APE070 W/7343-15 W/7343-15 T523W566M035APE100 X/7343-43 T521X686M035A(3)E050 T521B684M050A(3)E200 B/3528-21 T521B105M050A(3)E200 B/3528-21 T521B155M050A(3)E200 B/3528-21 T521B225M050A(3)E200 B/3528-21 B/3528-21 T521B335M050A(3)E200 D/7343-31 T521D565M050A(3)E070 D/7343-31 T521D565M050A(3)E090 T521V565M050A(3)E070 V/7343-19 V/7343-19 T521V565M050A(3)E090 D/7343-31 T521D685M050A(3)E070 D/7343-31 T521D685M050A(3)E090 T521V685M050A(3)E070 V/7343-19 T521V685M050A(3)E090 V/7343-19 T521D106M050A(3)E090 D/7343-31 T521D106M050A(3)E120 D/7343-31 T521V106M050A(3)E090 V/7343-19 T521D186M050A(3)E090 D/7343-31 X/7343-43 T521X186M050A(3)E070 X/7343-43 T521X186M050A(3)E050 X/7343-43 T521X186M050A(3)E035 D/7343-31 T521D226M050A(3)E090 X/7343-43 T521X226M050A(3)E075 X/7343-43 T521X226M050A(3)E050 µA at 25°C Maximum/ 5 Minutes 35 35 35 52.5 52.5 77 77 77 115.5 115.5 164.5 164.5 164.5 164.5 164.5 196 196 238 3.4 5 7.5 11 16.5 28 28 28 28 34 34 34 34 50 50 50 90 90 90 90 110 110 110 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 8 8 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 8 8 8 8 8 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 150 200 120 100 125 100 40 60 100 65 100 30 70 90 100 70 100 50 200 200 200 200 200 70 90 70 90 70 90 70 90 90 120 90 90 70 50 35 90 75 50 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 1,160 1,000 1,500 1,640 1,470 1,988 2,810 2,290 1,400 2,200 1,400 3,650 2,390 2,100 1,988 2,376 1,988 2,830 1,000 1,000 1,000 1,000 1,000 2,120 1,870 1,960 1,730 2,120 1,870 1,960 1,730 1,870 1,620 1,730 1,870 2,390 2,830 3,380 1,870 2,310 2,830 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 105 105 125 125 125 105 125 125 105 125 105 125 125 105 105 105 105 125 105 105 105 105 105 125 125 125 125 125 125 125 125 125 125 125 125 125 125 125 125 125 125 4 4 5 5 5 4 5 5 4 5 4 5 5 4 4 4 4 5 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 29 29
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage VDC at 105°C Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temperature Derating Category µF 33 33 0.68 1 1.5 4.7 4.7 4.7 6.8 10 15 15 22 4.7 10 15 KEMET/EIA (See below for part options) X/7343-43 T521X336M050A(3)E075 X/7343-43 T521X336M050A(3)E050 T521B684M063A(3)E200 B/3528-21 T521B105M063A(3)E200 B/3528-21 T521B155M063A(3)E200 B/3528-21 C/6032-28 T521C475M063A(3)E200 D/7343-31 T521D475M063A(3)E300 D/7343-31 T521D475M063A(3)E075 D/7343-31 T521D685M063A(3)E075 X/7343-43 T521X106M063A(3)E050 X/7343-43 T521X156M063A(3)E035 X/7343-43 T521X156M063A(3)E150 X/7343-43 T521X226M063A(3)E075 D/7343-31 T521D475M075A(3)E075 X/7343-43 T521X106M075A(3)E050 X/7343-43 T521X156M075A(3)E035 µA at 25°C Maximum/ 5 Minutes 165 165 4.3 6.3 9.5 29.6 29.61 29.6 42.8 63 94.5 94.5 138.6 35.3 75 112.5 µA at 25°C Maximum/ 5 Minutes % at 25°C 120 Hz Maximum 10 10 8 8 8 6 10 10 10 10 10 10 10 10 10 10 % at 25°C 120 Hz Maximum mΩ at 25°C 100 kHz Maximum 75 50 200 200 200 200 300 75 75 50 35 150 75 75 50 35 mΩ at 25°C 100 kHz Maximum (rms) mA at +45°C 100 kHz 2,310 2,830 1,000 1,000 1,000 1,050 1,030 2,050 2,050 2,830 3,380 1,630 2,310 2,050 2,830 3,380 (Hours) 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 2,000 Reflow Temp ≤ 260°C 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 Reflow Temp ≤ 260°C °C 125 125 105 105 105 105 125 125 125 125 125 125 125 125 125 125 5 5 4 4 4 4 5 5 5 5 5 5 5 5 5 5 VDC at 105°C µF KEMET/EIA (See below for part options) mA at +45°C 100 kHz (Hours) °C Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number DC Leakage DF ESR Maximum Allowable Ripple Current Endurance MSL Maximum Operating Temp Derating Category
+
+Not all parts are 105°C rated 50 50 63 63 63 63 63 63 63 63 63 63 63 75 75 75
+
+(2) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates Capacitance tolerance. (3) To complete KEMET part number, insert T = 100% Matte Tin (Sn)-plated or H = Standard Solder coated (SnPb 5% Pb minimum). Refer to Ordering Information for additional detail. Higher voltage ratings and tighter ESR may be substituted within the same size at KEMET's option. Voltage substitutions will be marked with the higher voltage rating. Substitutions can include better than series. Part numbers marked in blue font are not recommended for new designs. Please use the T521 series instead. ^ Denotes the large reel (13") is not available. * DF measurement condition is 120 Hz/0.5 Vrms/1.5 V DC Bias Refer to Ordering Information for additional detail.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 30 30
+
+aYAGEO company
+
+Derating Guidelines
+
+Recommended Application Voltage KO-CAPs are solid state capacitors that demonstrate no wearout mechanism when operated within their recommended guidelines. While the KO-CAP can be operated at full rated voltage, most circuit designers seek a minimum level of assurance in long term reliability, which should be demonstrated with data. A voltage derating can provide the desired level of demonstrated reliability based on industry accepted acceleration models. Since most applications do require long term reliability, KEMET recommends that designers consider a voltage derating, according to the graphic above, for the maximum steady state voltage.
+
+Derating category 1  100  90  Rated Voltage  e g a t l o v d e t a R %        80  70  60  50  40  -55  25  85  Temperature °C 
+
+Derating category 2  100  90  Rated Voltage  e g a t l o v d e t a R %        80  70  60  Recommended Application Voltage  50  40  -55  25  85  Temperature °C 
+
+Derating category  3  100  90  Rated Voltage  e g a t l o v d e t a R %        80  70  60  Recommended Application Voltage  50  40  -55  25  85  105  Temperature °C  Derating category 5  100 
+
+100  90  Rated Voltage  e g a t l o v d e t a R %        80  70  60  Recommended Application Voltage  50  40  -55  25  85  Temperature °C  105  125 
+
+Derating Category 4
+
+100  90  Rated Voltage  e g a t l o v d e t a R %        80  70  60  Recommended Application Voltage  50  40  -55  25  85  105  Temperature °C 
+
+Derating category 6
+
+100  90  Rated Voltage  e g a t l o v d e t a R %        80  70  60  Recommended Application Voltage  50  40  -55  25  85  Temperature °C  105  125 
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 31 31
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET a YAGEO company
+
+Ripple Current/Ripple Voltage
+
+Permissible AC ripple voltage and current are related to equivalent series resistance (ESR) and the power dissipation capabilities of the device. Permissible AC ripple voltage, which may be applied is limited by two criteria: a. The positive peak AC voltage plus the DC bias voltage, if any, must not exceed the DC voltage rating of the capacitor. b. The negative peak AC voltage, in combination with bias voltage, if any, must not exceed the allowable limits specified for reverse voltage.
+
+The maximum power dissipation must be reduced with increasing environmental operating temperatures. Refer to the table below for temperature compensation requirements.
+
+Temperature Compensation Multipliers for Maximum Ripple Current
+
+Max Operational Temperature (Series) −55°C < T ≤ 45°C 45°C < T ≤ 85°C 85°C < T ≤ 105°C 105°C < T ≤ 125°C 85°C (T520, T523 ) 1.00 0.7 105°C (T520, T521, T523, T527, T529 , TF) 1.00 0.7 0.25 125°C (T525 , T530 ) 1.00 0.7 0.25 0.25 125°C dedicated to T521 1.00 1.00 0.70 0.25
+
+T= Environmental Temperature
+
+Maximum Power Dissipation (Pmax) mWatts at 45°C with +30°C Rise
+
+Case Code EIA Case Code T520/T525 T521 T523 T527/T529 T530 P 2012 25 I / S 3216 60 A 3216-18 112 T 3528-12 105 160 105 75 M 3528-15 120 120 B 3528-21 127 200 U 6032-15 135 L 6032-19 150 C 6032-28 165 220 W 7343-15 180 255 395 V 7343-20 187 270 423 D 7343-31 225 315 255 Q 7343-12 170 245 Y 7343-40 241 263 X 7343-43 247 400 270 J 7360-15 440
+
+H
+
+7360-20
+
+187
+
+440
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 32 32
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Surge Voltage
+
+Surge voltage is the maximum voltage (peak value) which may be applied to the capacitor. The surge voltage must not be applied for periodic charging and discharging in course of normal operation and cannot be part of the application voltage. Surge voltage capability is demonstrated by application of 1,000 cycles at operating temperature. The parts are charged through a 33 Ohm resistor for 30 seconds and then discharged though a 33 Ohm resistor for each cycle.
+
+Rated Voltage (V) Surge Voltage (V) Category Voltage (V) Category Surge Voltage (V) 2 –55°C to 105°C 2.6 Up to 125°C – 2.5 3.3 1.7 2.2 3 3.9 2.0 2.7 4 5.2 2.7 3.5 6.3 8.2 4.2 5.5 8 10.4 5.4 7.1 10 13 6.7 8.7 12.5 16.25 – 16 20.8 10.7 13.9 20 26 13.4 17.4 25 32.5 16.8 21.8 35 45.5 23.5 30.5 50 65 33.5 43.6 63 81.9 42.2 54.9 75 97.5 50.3 65.3
+
+Reverse Voltage
+
+Polymer electrolytic capacitors are polar devices and may be permanently damaged or destroyed if connected in the wrong polarity. These devices will withstand a small degree of transient voltage reversal for short periods as shown in the below table.
+
+Temperature 25°C Permissible Transient Reverse Voltage 15% of Rated Voltage 55°C 10% of Rated Voltage 85°C 5% of Rated Voltage 105°C 3% of Rated Voltage 125°C* 1% of Rated Voltage
+
+*For series rated to 125°C
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 33 33
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Table 2 – Land Dimensions/Courtyard
+
+T520/T521/T525/T530
+
+KEMET Metric Size Code Density Level A: Maximum (Most) Land Protrusion (mm) Density Level B: Median (Nominal) Land Protrusion (mm) Density Level C: Minimum (Least) Land Protrusion (mm) Case EIA W L S V1 V2 W L S V1 V2 W L S V1 A 3216–18 1.35 2.20 0.62 6.02 2.80 1.23 1.80 0.82 4.92 2.30 1.13 1.42 0.98 4.06 B 3528–21 2.35 2.21 0.92 6.32 4.00 2.23 1.80 1.12 5.22 3.50 2.13 1.42 1.28 4.36 C 6032–28 2.35 2.77 2.37 8.92 4.50 2.23 2.37 2.57 7.82 4.00 2.13 1.99 2.73 6.96 D 7343–31 2.55 2.77 3.67 10.22 5.60 2.43 2.37 3.87 9.12 5.10 2.33 1.99 4.03 8.26 H 7360-20 4.25 2.77 3.67 10.22 7.30 4.13 2.37 3.87 9.12 6.80 4.03 1.99 4.03 8.26 L 6032-19 2.35 2.77 2.37 8.92 4.50 2.23 2.37 2.57 7.82 4.00 2.13 1.99 2.73 6.96 M 3528-15 2.35 2.20 0.92 6.32 4.00 2.23 1.80 1.12 5.22 3.50 2.13 1.42 1.28 4.36 Q 7343-12 2.55 2.77 3.67 10.22 5.60 2.43 2.37 3.87 9.12 5.10 2.33 1.99 4.03 8.26 T 3528–12 2.35 2.20 0.92 6.32 4.00 2.23 1.80 1.12 5.22 3.50 2.13 1.42 1.28 4.36 U 6032–15 2.35 2.77 2.37 8.92 4.50 2.23 2.37 2.57 7.82 4.00 2.13 1.99 2.73 6.96 V 7343–21 2.55 2.77 3.67 10.22 5.60 2.43 2.37 3.87 9.12 5.10 2.33 1.99 4.03 8.26 W 7343–15 2.55 2.77 3.67 10.22 5.60 2.43 2.37 3.87 9.12 5.10 2.33 1.99 4.03 8.26 X1 5.60 1.99 2.33 5.10 9.12 3.87 2.37 2.43 10.22 3.67 4.03 2.77 7343–43 2.55 Y1 4.03 1.99 2.33 7343–40 5.10 5.60 9.12 3.67 3.87 2.55 2.37 2.43 2.77 10.22 8.26 8.26 V2 2.04 3.24 3.74 4.84 6.54 3.74 3.24 4.84 3.24 3.74 4.84 4.84 4.84 4.84
+
+Y1  7343–40  5.60  3.67  2.55  2.43  2.77  10.22 
+
+Density Level A: For low-density product applications. Recommended for wave solder applications and provides a wider process window for reflow solder processes. Density Level B: For products with a moderate level of component density. Provides a robust solder attachment condition for reflow solder processes. Density Level C: For high component density product applications. Before adapting the minimum land pattern variations the user should perform qualification testing based on the conditions outlined in IPC standard 7351 (IPC–7351). ¹ Height of these chips may create problems in wave soldering.
+
+V1  L  L  W  W  V2  S  Grid Placement Courtyard 
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 34 34
+
+Metric  Size  Code  Maximum (Most) Land  Protrusion (mm)   Case  EIA  W  L  S  V1  V2  W  P  2012-10  1.05  1.76  0.21  4.74  2.36  0.93  K  3528-10  2.35  2.04  1.24  6.32  4.00  2.23  W  7343–15  2.55  2.77  3.67  10.22  5.60  2.43  V  7343-20  2.55  2.77  3.67  10.22  5.60  2.43  G  7360-12  4.60  3.07  3.07  10.22  7.30  4.48  J  7360-15  4.60  3.07  3.07  10.22  7.30  4.48  H  7360-20  4.60  3.07  3.07  10.22  7.30  4.48 
+
+KEMET aYAGEO company
+
+T523 / T527
+
+Metric Size Code Maximum (Most) Land Protrusion (mm) Median (Nominal) Land Protrusion (mm) Minimum (Least) Land Protrusion (mm) KEMET Case EIA W L S V1 V2 W L S V1 V2 W L S V1 V2 P 2012-10 1.05 1.76 0.21 4.74 2.36 0.93 1.36 0.41 3.64 1.86 0.83 0.98 0.57 2.93 1.6 K 3528-10 2.35 2.04 1.24 6.32 4.00 2.23 1.64 1.44 5.22 3.50 2.13 1.26 1.60 4.52 3.24 W 7343–15 2.55 2.77 3.67 10.22 5.60 2.43 2.37 3.87 9.12 5.10 2.33 1.99 4.03 8.26 4.84 V 7343-20 2.55 2.77 3.67 10.22 5.60 2.43 2.37 3.87 9.12 5.10 2.33 1.99 4.03 8.26 4.84 G 7360-12 4.60 3.07 3.07 10.22 7.30 4.48 2.67 3.27 9.12 6.80 4.38 2.29 3.43 8.26 6.54 J 7360-15 4.60 3.07 3.07 10.22 7.30 4.48 2.67 3.27 9.12 6.80 4.38 2.29 3.43 8.26 6.54 H 7360-20 4.60 3.07 3.07 10.22 7.30 4.48 2.67 3.27 9.12 6.80 4.38 2.29 3.43 8.26 6.54
+
+V1  L  L  V2  W  W  S  Grid Placement Courtyard 
+
+
+
+T527 / T529 Dimensions (mm) Minimum – Maximum
+
+Metric Size Code EIA KEMET Case G Z X Y A08 3216–08 1.00 – 1.65 3.25 – 3.80 1.1 – 1.30 0.8 – 1.40 I 3216–10 1.00 – 1.65 3.25 – 3.80 1.10 – 1.30 0.80 – 1.40 S 3216–12 1.00 – 1.65 3.25 – 3.80 1.1 – 1.30 0.8 – 1.40 P 2012–10 0.40 – 1.05 2.05 – 2.60 0.80 – 1.00 0.5 – 1.1
+
+(JEITA RC-2371 is recommended for reference)
+
+X  X  G Z  Y  Y 
+
+T2076_T52X-530 • 5/28/2024 35 35
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET a YAGEO company
+
+Soldering Process
+
+The KEMET families of surface mount capacitors are compatible with wave (single or dual), convection, IR, or vapor phase reflow techniques. Preheating of these components is recommended to avoid extreme thermal stress. KEMET's recommended profile conditions for convection and IR reflow reflect the profile conditions of the IPC/J–STD–020D standard for moisture sensitivity testing. The devices can safely withstand a maximum of three reflow passes at these conditions.
+
+Please note that although the X/7343–43 case size can withstand wave soldering, the tall profile (4.3 mm maximum) dictates care in wave process development.
+
+Profile Feature Peak Temperature (TP) Time within 5°C of Maximum Peak Temperature (tP) Ramp-down Rate (TP to TL) Time 25°C to Peak Temperature SnPb Assembly Pb-Free Assembly 100°C 150°C 150°C 200°C 60 – 120 seconds 60 – 120 seconds 3°C/seconds maximum 3°C/seconds maximum 183°C 217°C 60 – 150 seconds 220°C* 235°C** 60 – 150 seconds 250°C* 260°C** 20 seconds maximum 30 seconds maximum 6°C/seconds maximum 6°C/seconds maximum 6 minutes maximum 8 minutes maximum
+
+Preheat/Soak Temperature Minimum (TSmin) Temperature Maximum (TSmax) Time (ts) from Tsmin to Tsmax) Ramp-up Rate (TL to TP) Liquidous Temperature (TL) Time Above Liquidous (tL)
+
+Hand soldering should be performed with care due to the difficulty in process control. If performed, care should be taken to avoid contact of the soldering iron to the molded case. The iron should be used to heat the solder pad, applying solder between the pad and the termination, until reflow occurs. Once reflow occurs, the iron should be removed immediately. “Wiping” the edges of a chip and heating the top surface is not recommended.
+
+Note: All temperatures refer to the center of the package, measured on the package body surface that is facing up during assembly reflow. * For Case Size height > 2.5 mm ** For Case Size height ≤ 2.5 mm
+
+TP  Maximum Ramp-up Rate = 3°C/second Maximum Ramp-down Rate = 6°C/second  tP     e r u t a r e p m e T  TL  Tsmax  Tsmin  ts  tL  25  25°C to Peak  Time 
+
+Storage
+
+All KO-Cap are shipped in moisture barrier bags (MBBs) with desiccant and humidity indicator card (HIC). These parts are classified as moisture sensitivity level 3 (MSL3) or moisture sensitivity level 4 (MSL4) per IPC/JEDEC J-STD-020 and packaged per IPC/JEDEC J–STD–033. Refer to Table 1 for part type specification. MSL3 specifies a floor time of 168H at 30°C maximum temperature and 60% relative humidity. MSL4 specifies a floor time of 72H at 30°C maximum temperature and 60% relative humidity. Unused capacitors should be sealed in a MBB with fresh desiccant.
+
+Calculated shelf life in sealed bag: – 12 months from bag seal date in a storage environment of < 40°C and humidity < 90% RH – 24 months from bag seal date in a storage environment of < 30°C and humidity < 70% RH
+
+If baking is required, refer to IPC/JEDEC J–STD–033 for bake procedure
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 36 36
+
+Detailed Cross Section 
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+Construction
+
+T520/T521/T525/T530
+
+Molded Epoxy  Case  Polarity Stripe (+)  Polarity  Bevel (+)  Leadframe (− Cathode)  Wire  Weld (to attach wire)  Silver Adhesive  Leadframe (+ Anode)  Molded Epoxy  Case 
+
+Molded Epoxy  Case  Polarity Stripe (+)  Detailed Cross Section  Silver Paint (Fourth Layer)  Polarity  Bevel (+)  Wire  Leadframe (− Cathode)  Wire  Weld (to attach wire)  Carbon (Third Layer)  Silver Adhesive  Ta2O5 Dielectric (First Layer)  Polymer (Second Layer)  Leadframe (+ Anode)  Molded Epoxy  Case  Tantalum 
+
+Ta2O5 Dielectric (First Layer)  Polymer (Second Layer)  Leadframe (+ Anode)  Tantalum  Detailed Cross Section 
+
+T523
+
+Polarity Stripe (+)  Molded Epoxy  Case  Carbon (Third Layer)  Tantalum Wire  Leadframe (+ Anode)  Leadframe (- Cathode)  Weld (to attach wire)  Spacer 
+
+Detailed Cross Section
+
+Carbon (Third Layer)  Silver Paint (Fourth Layer)  Polymer (Second Layer)  Ta2O5 Dielectric (First Layer)  Tantalum  Wire  Tantalum 
+
+T2076_T52X-530 • 5/28/2024 37 37
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+Detailed Cross Section 
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+Construction cont.
+
+T527
+
+Polarity Stripe (+)  Molded Epoxy  Case  Wire  Spacer  Leadframe (+ Anode)  Leadframe (− Cathode)  Weld (to attach wire)  Silver  Adhesive 
+
+Polarity Stripe (+)  Detailed Cross Section  Carbon (Third Layer)  Silver Paint (Fourth Layer)  Molded Epoxy  Case  Wire  Wire  Polymer (Second Layer)  Spacer  Ta2O5 Dielectric (First Layer)  Tantalum  Leadframe (+ Anode)  Leadframe (− Cathode)  Weld (to attach wire)  Silver  Adhesive 
+
+Ta2O5 Dielectric (First Layer)  Tantalum  Leadframe (+ Anode)  Detailed Cross Section 
+
+T529  Polarity Stripe (+)  Molded Epoxy  Case  (− Cathode)  Wire  Spacer  (+ Anode)  Weld (to attach wire)  Substrate  Silver Adhesive 
+
+T529
+
+Polarity Stripe (+)  Detailed Cross Section  Molded Epoxy  Case  Carbon (Third Layer)  Silver Paint (Fourth Layer)  Wire  (− Cathode)  Polymer (Second Layer)  Wire  Ta2O5 Dielectric (First Layer)  Spacer  Tantalum  (+ Anode)  Weld (to attach wire)  Substrate  Silver Adhesive 
+
+T2076_T52X-530 • 5/28/2024 38 38
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET a YAGEO company
+
+Capacitor Marking
+
+T520/T521/T523/T525/T530
+
+Polarity  Indicator (+)  Picofarad Code  Rated  Voltage  KEMET ID  Date Code* 
+
+of year of year
+
+T520A/T527I/T527S/T527T
+
+T520A, T527I & T527S  T527T  Polarity  Indicator (+)  Date  Code  Voltage and  Capacitance  Code 
+
+T520A, T527I & T527S
+
+T527T
+
+Voltage and  Capacitance  Code  Polarity  Indicator (+)  ID Code  Date Code 
+
+and
+
+Code Rated Voltage Code Capacitance Code Capacitance e 2.5 V g 4 V A7 10 S7 47 j A C E 6.3 V 10 V 16 V 25 V E7 J7 N7 15 22 33 W7 A8 J8 68 100 220
+
+Date Code* Year Jan Feb Mar Apr May Jun Jul 2019 a b c d e f g 2020 n p q r s t u 2021 A B C D E F G 2022 N P Q R S T U 2023 a b c d e f g 2024 n p q r s t u Aug h v H V h v Sep j w J W j w Oct Nov Dec k l m x y z K L M X Y Z k l m x y z
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 39 39
+
+KEMET aYAGEO company
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+Capacitor Marking cont.
+
+T520B/T521B/T520T
+
+Polarity  Indicator (+)  Voltage and  Capacitance  Code  ID Code  Date Code 
+
+Code e g J A C D E Rated Voltage 2.5 V 4 V 6.3 V 10 V 16 V 20 V 25 V Code E7 J7 N7 A8 Capacitance 15 22 33 100 Code E8 J8 N8 S8 Capacitance 150 220 330 470
+
+T529  Code  Polarity  Indicator (+)  Rated Voltage  Date  Code  Code  Voltage and  Capacitance  Code  Date Code* 
+
+T529
+
+Code J A C E Rated Voltage 6.3 V 10 V 16 V 25 V Code S a j s Capacitance (µF) 4.7 10 22 47
+
+Date Code* Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2018 N P Q R S T U V W X Y Z 2019 a b c d e f g h j k l m 2020 n p q r s t u v w x y z 2021 A B C D E F G H J K L M 2022 N P Q R S T U V W X Y Z 2023 a b c d e f g h j k l m
+
+T2076_T52X-530 • 5/28/2024 40 40
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Tape & Reel Packaging Information
+
+KEMET’s molded chip capacitor families are packaged in 8 and 12 mm plastic tape on 7" and 13" reels in accordance with EIA Standard 481: Embossed Carrier Taping of Surface Mount Components for Automatic Handling. This packaging system is compatible with all tape-fed automatic pick-and-place systems.
+
+Right hand orientation only  Embossed carrier  (+)  (−)  Embossment  Top tape thickness 0.10 mm (0.004”)  maximum thickness  8 mm (0.315”) or 12 mm (0.472”)  180 mm (7.0”) or 330 mm (13.”) 
+
+Table 3 – Packaging Quantity
+
+Case Code Tape Width (mm) 7" Reel* 13" Reel* KEMET P R 08A I S A K T M B U L C Q W Z V D Y X J H O EIA 2012-10 2012-12 3216-08 3216-10 3216-12 3216-18 3528-10 3528-12 3528-15 3528-21 6032-15 6032-19 6032-28 7343-12 7343-15 7343-17 7343-19 7343-31 7343-40 7343-43 7360-15 7360-20 7360-43 8 8 8 8 8 8 8 8 8 8 12 12 12 12 12 12 12 12 12 12 12 12 12 3,000 2,500 3,000 3,000 3,000 2,000 3,000 3,000 2,500 2,000 1,000 1,000 500 1,000 1,000 1,000 1,000 500 500 500 1,000 1,000 250 N/A 10,000 N/A N/A N/A N/A N/A 10,000 8,000 8,000 5,000 3,000 3,000 3,000 3,000 3,000 3,000 2,500 2,000 2,000 3,000 3,000 1,000
+
+* No C-Spec required for 7" reel packaging. C-7280 required for 13" reel packaging.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 41 41
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Figure 1 – Embossed (Plastic) Carrier Tape Dimensions
+
+T T2  ØD0  P2  P0  (10 pitches cumulative tolerance on tape ±0.2 mm)  E1  A0  F  K0  W  B1  B0  E2  S1  P1  T1  Cover Tape  Center Lines of Cavity  ØD1  Embossment For cavity size, see Note 1, Table 4  B1 is for tape feeder reference only,  including draft concentric about B0.  User Direction of Unreeling 
+
+Table 4 – Embossed (Plastic) Carrier Tape Dimensions Metric will govern
+
+Constant Dimensions — Millimeters (Inches)
+
+Tape Size D0 D1 Minimum Note 1 E1 P0 P2 R Reference Note 2 S1 Minimum Note 3 T Maximum 8 mm 12 mm 1.5 +0.10/−0.0 (0.059 +0.004/−0.0) 1.0 (0.039) 1.5 (0.059) 1.75 ±0.10 (0.069 ±0.004) 4.0 ±0.10 (0.157 ±0.004) 2.0 ±0.05 (0.079 ±0.002) 25.0 (0.984) 30 (1.181) 0.600 (0.024) 0.600 (0.024) 0.100 (0.004)
+
+T1 Maximum
+
+Variable Dimensions — Millimeters (Inches) Tape Size Pitch B1 Maximum Note 4 E2 Minimum F P1 T2 Maximum W Maximum A0, B0 & K0 8 mm Single (4 mm) 4.35 (0.171) 6.25 (0.246) 3.5 ±0.05 (0.138 ±0.002) 4.0 ±0.10 (0.157 ±0.004) 2.5 (0.098) 8.3 (0.327) 12 mm 8.2 (0.323) 10.25 (0.404) 5.5 ±0.05 (0.217 ±0.002) 8.0 ±0.10 (0.315 ±0.004) 4.6 (0.181) 12.3 (0.484) Note 5
+
+Single (4 mm) and Double (8 mm)
+
+1. The embossment hole location shall be measured from the sprocket hole controlling the location of the embossment. Dimensions of embossment location and hole location shall be applied independent of each other.
+
+2. The tape, with or without components, shall pass around R without damage (see Figure 4). 3. If S1 < 1.0 mm, there may not be enough area for cover tape to be properly applied (see EIA Standard 481–D, paragraph 4.3, section b). 4. B1 dimension is a reference dimension for tape feeder clearance only. 5. The cavity defi ned by A0, B0 and K0 shall surround the component with suﬃ cient clearance that:
+
+(a) the component does not protrude above the top surface of the carrier tape. (b) the component can be removed from the cavity in a vertical direction without mechanical restriction, after the top cover tape has been removed. (c) rotation of the component is limited to 20° maximum for 8 and 12 mm tapes (see Figure 2). (d) lateral movement of the component is restricted to 0.5 mm maximum for 8 mm and 12 mm wide tape (see Figure 3). (e) see Addendum in EIA Standard 481–D for standards relating to more precise taping requirements.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 42 42
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Packaging Information Performance Notes
+
+1. Cover Tape Break Force: 1.0 Kg minimum. 2. Cover Tape Peel Strength: The total peel strength of the cover tape from the carrier tape shall be:
+
+Tape Width Peel Strength 8 mm 0.1 to 1.0 Newton (10 to 100 gf) 12 mm 0.1 to 1.3 Newton (10 to 130 gf)
+
+The direction of the pull shall be opposite the direction of the carrier tape travel. The pull angle of the carrier tape shall be 165° to 180° from the plane of the carrier tape. During peeling, the carrier and/or cover tape shall be pulled at a velocity of 300 ±10 mm/minute. 3. Labeling: Bar code labeling (standard or custom) shall be on the side of the reel opposite the sprocket holes. Refer to EIA Standards 556 and 624.
+
+Figure 2 – Maximum Component Rotation
+
+° T  Maximum Component Rotation  Top View  Bo  Typical Pocket Centerline Maximum Tape Rotation ( Width (mm) 20     8, 12      ° T)  Typical Component Centerline  Ao 
+
+Maximum Component Rotation Side View
+
+° s  Tape Width (mm) 8, 12      Maximum Rotation ( 20      ° S) 
+
+Figure 3 – Maximum Lateral Movement
+
+Figure 4 – Bending Radius
+
+8 mm & 12 mm Tape
+
+0.5 mm maximum  0.5 mm maximum 
+
+Embossed Carrier  Punched Carrier  R  Bending Radius  R 
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 43 43
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+Figure 5 – Reel Dimensions
+
+Full Radius, See Note  Access Hole at Slot Location (Ø 40 mm minimum)  W3  flange distortion  at outer edge)  (Includes  W2  (Measured at hub)  A  D (See Note)  N  C (Arbor hole diameter)  W1  (Measured at hub)  B (see Note)  If present, tape slot in core for tape start: 2.5 mm minimum width x 10.0 mm minimum depth 
+
+Note: Drive spokes optional; if used, dimensions B and D shall apply.
+
+Table 5 – Reel Dimensions Metric will govern
+
+Constant Dimensions — Millimeters (Inches) Tape Size A B Minimum C D Minimum 8 mm 12 mm 178 ±0.20 (7.008 ±0.008) or 330 ±0.20 (13.000 ±0.008) 1.5 (0.059) 13.0 +0.5/−0.2 (0.521 +0.02/−0.008) 20.2 (0.795) Variable Dimensions — Millimeters (Inches) Tape Size 8 mm 12 mm N Minimum 50 (1.969) W1 8.4 +1.5/−0.0 (0.331 +0.059/−0.0) 12.4 +2.0/−0.0 (0.488 +0.078/−0.0) W2 Maximum 14.4 (0.567) 18.4 (0.724) W3 Shall accommodate tape width without interference
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 44 44
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+Figure 6 – Tape Leader & Trailer Dimensions
+
+Embossed Carrier
+
+Punched Carrier 8 mm & 12 mm only  END  Carrier Tape  Round Sprocket Holes  START  Top Cover Tape  Elongated Sprocket Holes (32 mm tape and wider)  Trailer 160 mm minimum  Components  100 mm  minimum Leader  400 mm minimum  Top Cover Tape 
+
+Figure 7 – Maximum Camber
+
+Elongated Sprocket Holes (32 mm & wider tapes)  Carrier Tape  Round Sprocket Holes  1 mm maximum, either direction  Straight Edge 
+
+250 mm
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+KEMET aYAGEO company
+
+T2076_T52X-530 • 5/28/2024 45 45
+
+KEMET Organic Capacitor (KO-CAP®) T52x/T530 Polymer Electrolytic Capacitors
+
+KEMET aYAGEO company
+
+KEMET Electronics Corporation Sales Oﬃ ces
+
+For a complete list of our global sales offi ces, please visit www.kemet.com/sales.
+
+Disclaimer
+
+YAGEO Corporation and its affi liates do not recommend the use of commercial or automotive grade products for high reliability applications or manned space fl ight.
+
+All product specifi cations, statements, information and data (collectively, the “Information”) in this datasheet are subject to change. The customer is responsible for checking and verifying the extent to which the Information contained in this publication is applicable to an order at the time the order is placed. All Information given herein is believed to be accurate and reliable, but it is presented without guarantee, warranty, or responsibility of any kind, expressed or implied.
+
+Statements of suitability for certain applications are based on KEMET Electronics Corporation’s (“KEMET”) knowledge of typical operating conditions for such applications, but are not intended to constitute – and KEMET specifi cally disclaims – any warranty concerning suitability for a specifi c customer application or use. The Information is intended for use only by customers who have the requisite experience and capability to determine the correct products for their application. Any technical advice inferred from this Information or otherwise provided by KEMET with reference to the use of KEMET’s products is given gratis, and KEMET assumes no obligation or liability for the advice given or results obtained.
+
+Although KEMET designs and manufactures its products to the most stringent quality and safety standards, given the current state of the art, isolated component failures may still occur. Accordingly, customer applications which require a high degree of reliability or safety should employ suitable designs or other safeguards (such as installation of protective circuitry or redundancies) in order to ensure that the failure of an electrical component does not result in a risk of personal injury or property damage.
+
+Although all product–related warnings, cautions and notes must be observed, the customer should not assume that all safety measures are indicated or that other measures may not be required.
+
+KEMET is a registered trademark of KEMET Electronics Corporation.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2076_T52X-530 • 5/28/2024 46 46

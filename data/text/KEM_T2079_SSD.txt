@@ -1,0 +1,547 @@
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 – 35 VDC
+
+KEMET a YAGEO
+
+company
+
+Overview
+
+KO-CAP EIN
+
+The KEMET Organic Capacitors (KO-CAP) are preferred solutions for applications requiring power loss protection (hold-up) or maximum power efficiency of a circuit when board space is limited. Desired benefits include high energy density, stable capacitance with applied voltage and temperature, and no aging effects. The conductive polymer cathode of these solid electrolytic capacitors
+
+provide very low ESR and higher capacitance retention at high frequencies. Unlike liquid electrolyte-based capacitors, KEMET polymer capacitors have a very long operational life and high ripple current capabilities. Capacitors from T520, T521, and T523 series are commonly used in these applications. The T545 and T548 were introduced to meet specific needs for a subsegment of solid state drives.
+
+Benefits
+
+Highest energy per unit volume • Stable capacitance across temperature and voltage • No aging effects • Low ESR values • High frequency capacitance retention • High ripple handling • 100% accelerated steady state aging • 100% surge current tested • Halogen-free epoxy and RoHS compliant
+
+Applications
+
+Typical applications include enterprise storage, networking, server, mobile, client storage, and client computing.
+
+T520 / T521 / T545
+
+T523 / T548
+
+
+
+
+
+Built Into Tomorrow
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 1
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Environmental Compliance
+
+RoHS compliant when ordered with 100% Sn solder or Ni-Pd-Au • Halogen-free • Epoxy compliant with UL94 V–0
+
+K-SIM
+
+For a detailed analysis of specific part numbers, please visit https://ksim.kemet.com/capacitor-simulation to access KEMET's K-SIM software. KEMET K-SIM is designed to simulate behavior of components with respect to frequency, ambient temperature, and DC bias levels.
+
+Ordering Information
+
+T 548 V 157 M 016 A T E050 Capacitor Class Series Case Size Capacitance Code (pF) Capacitance Tolerance Rated Voltage (VDC) Failure Rate/ Design Termination Finish ESR Packaging (C-Spec) T = Tantalum 520 = Low voltage 521 = High voltage 523 = Facedown terminal 545 = High energy 548 = High energy, facedown terminal B, G, H, J, M, O, T, V, W, X, Y First two digits represent significant figures. Third digit specifies number of zeros. K = ±10% M = ±20% 006 = 6.3 010 = 10 016 = 16 020 = 20 025 = 25 035 = 35 A = N/A T = 100% matte tin (Sn)-plated P* = Ni-Pd-Au-plated ESR in mΩ Blank = 7" reel 7280 = 13" reel
+
+* P termination only available on T523/T548 part numbers
+
+Performance Characteristics
+
+Item Performance Characteristics Operating Temperature -55°C to 85°C/105°C/125°C (refer to part number in Table 1 for maximum temperature rating) Rated Capacitance Range 22 – 1,500 μF at 120 Hz/25°C Capacitance Tolerance K tolerance (10%), M tolerance (20%) Rated Voltage Range 6.3 – 35 VDC DF (120 Hz) Refer to part number in Table 1 for electrical specification ESR (100 kHz) Refer to part number in Table 1 for electrical specification Leakage Current ≤ 0.1 CV (µA) at rated voltage after 5 minutes (refer to part number in Table 1 for electrical specification)
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 2 2
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Qualification
+
+Test Condition Characteristics Endurance 85°C or 105°C at rated voltage, 2,000 hours** 125°C at 2/3 rated voltage, 2,000 hours ** Δ C/C DF DCL ESR Within −20/+10% of initial value Within initial limit Within 2.0 x initial limit *1 Within 1.25 x initial limit Within 2.0 x initial limit *1 Within 2.0 x initial limit Storage Life 85°C/105°C/125°C at 0 volts, 2,000 hours** Δ C/C DF DCL ESR Within −20%/+10% of initial value Within initial limit Within 2.0 x initial limit *1 Within 1.25 x initial limit Within 2.0 x initial limit *1 Within 2.0 x initial limit Δ C/C Within −5% /+35% Humidity 60°C, 90% RH, no load, 500 hours DF DCL Within initial limit Within 5.0 x initial limit ESR Within 2.0 x initial limit Temperature Stability Extreme temperature exposure at a succession of continuous steps at +25°C, −55°C, +25°C, +85°C, +105°C**, +25°C Δ C/C DF +25°C IL* IL −55°C ±20% IL +25°C ±10% IL +85°C ±20% 1.2 x IL +105°C** ±30% 1.5 x IL ±10% IL DCL IL N/A IL 10 x IL 10 x IL IL Δ C/C Within −20/+10% of initial value Surge Voltage 85°C/105°C/125°C, 1.32 x rated voltage*2, 1,000 cycles ** DF DCL Within initial limits Within initial limits Mechanical Shock/ Vibration MIL–STD–202, Method 213 and 204 Condition I, 100 G peak Condition D, 20 G for 20 minutes/12 cycles each of 3 orientations. Test from 10 ~ 2,000 Hz ESR Δ C/C DF DCL Within initial limits Within ±10% of initial value (Within initial limits for T527 Series) Within initial limits Within initial limits
+
++25°C
+
+IL = Initial limit ** Refer to Table 1 - Ratings & Part Number Reference for temperature classification. If temperature classification is 85°C, the 105°C step is not performed for the temperature stability test. *1 For 125°C rated part numbers *2 For PN T523W476M035AP/ , T523V686M035AP, T523W566M035AP test voltage is 1.15 x Vr
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 3 3
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Reliability
+
+KO-CAP capacitors have an average failure rate of 0.5 %/1,000 hours at category voltage, UC, and category temperature, TC. These capacitors are qualified using industry test standards at UC and TC. The minimum test time (1,000 hours or 2,000 hours) is dependent on the product.
+
+The actual life expectancy of KO-CAP capacitors increases when application voltage, UA, and application temperature, TA, are lower than UC and TC. As a general guideline, when UA < 0.9 * UC and TA < 85°C, the life expectancy will typically exceed the useful lifetime of most hardware (> 10 years).
+
+The lifetime of a KO-CAP capacitor at a specific application voltage and temperature can be modeled using the equations below. A failure is defined as passing enough current to blow a 1-amp fuse. The calculation is an estimation based on empirical results and is not a guarantee.
+
+VAF = ( )UC  UA  n  where:  VAF = acceleration factor due to voltage, unitless  UC = category voltage, volt UA = application voltage, volt n = exponent, 16 
+
+TAF = e  [ (  Ea k  1  273+TA  1  273+TC  )]  where: TAF = acceleration factor due to temperature, unitless Ea = activation energy, 1.4 eV k = Boltzmann’s constant, 8.617E-5 eV/K TA = application temperature, °C TC = category temperature, °C 
+
+AF = VAF * TAF   where:  AF = acceleration factor, unitless  TAF = accerlation factor due to temperature, unitless  VAF = acceleration factor due to voltage, unitless 
+
+LifeUA ,TA  = LifeUC ,TC  * AF  where: LifeUA, TA = estimated life application voltage       and temperature, years LifeUC, TC = guaranteed life category voltage     and temperature, years        AF = acceleration factor, unitless 
+
+Terms: Category voltage, UC : maximum recommended peak DC operating voltage for continuous operation at the category temperature, TC Rated voltage, UR : maximum recommended peak DC operating voltage for continuous operation up to the rated temperature, TR Category temperature, TC : maximum recommended operating temperature. Voltage derating may be required at TC Rated temperature, TR : maximum recommended operating temperature without voltage derating. TR is equal to or lower than TC
+
+Reliability Table 1 – Common temperature range classifications
+
+85°C (TR) / 85°C (TC) Rated Voltage (UR) Category Voltage (UC) 2.5 2.5 4.0 4.0 6.3 6.3 8.0 8.0 10.0 10.0 12.5 12.5 16.0 16.0 20.0 20.0 25.0 25.0 35.0 35.0 50.0 50.0 63.0 63.0 105°C (TR) / 105°C (TC) Rated Voltage (UR) Category Voltage (UC) 2.5 2.5 4.0 4.0 6.3 6.3 8.0 8.0 10.0 10.0 12.5 12.5 16.0 16.0 20.0 20.0 25.0 25.0 35.0 35.0 50.0 50.0 63.0 63.0 105°C (TR) / 125°C (TC) Rated Voltage (UR) Category Voltage (UC) 2.5 1.7 4.0 2.7 6.3 4.2 8.0 5.4 10.0 6.7 12.5 8.4 16.0 10.7 20.0 13.4 25.0 16.8 35.0 23.5 50.0 33.5 63.0 42.2 75.0 75.0 75.0 75.0 75.0 50.3
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 4 4
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Dimensions – Millimeters (Inches) Metric will govern
+
+For T520 / T521 / T545
+
+CATHODE (-) END VIEW SIDE VIEW ANODE (+) END VIEW Termination cutout at KEMET's option, either end KEMET EIA L W H F ±0.1 (±0.004) S ±0.3 (±0.012) B ±0.15 (Ref) ±0.006 X (Ref) T M B W V Y X H 3528-12 3528-15 3528-21 7343-15 7343-20 7343-40 7343-43 7360-20 3.5 ±0.2 (0.138 ±0.008) 3.5 ±0.2 (0.138 ±0.008) 3.5 ±0.2 (0.138 ±0.008) 7.3 ±0.3 (0.287 ±0.012) 7.3 ±0.3 (0.287 ±0.012) 7.3 ±0.3 (0.287 ±0.012) 7.3 ±0.3 (0.287 ±0.012) 7.3 ±0.3 (0.287 ±0.012) 7.3 ±0.3 (0.287 ±0.012) 2.8 ±0.2 (0.110 ±0.008) 2.8 ±0.2 (0.110 ±0.008) 2.8 ±0.2 (0.110 ±0.008) 4.3 ±0.3 (0.169 ±0.012) 4.3 ±0.3 (0.169 ±0.012) 4.3 ±0.3 (0.169 ±0.012) 4.3 ±0.3 (0.169 ±0.012) 6.0 ±0.3 (0.236 ±0.012) 6.0 ±0.3 (0.236 ±0.012) 1.1 ±0.1 (0.043 ±0.004) 1.4 ±0.1 (0.055 ±0.004) 1.9 ±0.2 (0.075 ±0.008) 1.4 ±0.1 (0.055 ±0.004) 1.9 ±0.1 (0.075 ±0.004) 3.8 ±0.2 (0.150 ±0.008) 4.0 ±0.3 (0.157 ±0.012) 1.9 ±0.1 (0.075 ±0.004) "4.0 ±0.3 (0.157 ±0.012)" 2.2 (0.087) 2.2 (0.087) 2.2 (0.087) 2.4 (0.094) 2.4 (0.094) 2.4 (0.094) 2.4 (0.094) 4.1 (0.161) 0.80 (0.032) 0.8 (0.031) 0.80 (0.032) 1.30 (0.051) 1.30 (0.051) 1.3 (0.051) 1.30 (0.051) 1.3 (0.051) N/A N/A 0.4 (0.016) N/A N/A 0.5 (0.020) 0.5 (0.020) N/A 0.05 (0.002) 0.05 (0.002) 0.10 ±0.10 (0.004 ±0.004) 0.05 (0.002) 0.05 (0.002) 0.10 ±0.10 (0.004 ±0.004) 0.10 ±0.10 (0.004 ±0.004) 0.10 ±0.10 (0.004 ±0.004) 0.10 ±0.10 (0.004±0.004) O 7360-43 4.1 (0.161) 1.3 (0.051) N/A P (Ref) N/A N/A 0.5 (0.020) N/A N/A 1.7 (0.067) 1.7 (0.067) N/A N/A BOTTOM VIEW Glue pad shape/design at KEMET's option R (Ref) T (Ref) A (Min) N/A N/A 1.0 (0.039) N/A N/A 1.0 (0.039) 1.0 (0.039) N/A 0.13 (0.005) 0.13 (0.005) 0.13 (0.005) 0.13 (0.005) 0.13 (0.005) 0.13 (0.005) 0.13 (0.005) 0.13 (0.005) 0.13 (0.005) 1.9 (0.075) 1.1 (0.043) 1.9 (0.075) 3.8 (0.150) 3.8 (0.150) 3.8 (0.150) 3.8 (0.150) 3.8 (0.150) 3.8 (0.150) 55 98 95 223 274 494 554 385 N/A 385
+
+Typical Weight (mg)
+
+For T523 / T548
+
+END VIEW SIDE VIEW BOTTOM VIEW H Case BOTTOM VIEW V/W/J Case H F W L S S S KEMET EIA L W H F ±0.1 (±0.004) T W G J V H 3528-12 7343-15 7360-12 7360-15 7343-20 7360-20 3.5 ±0.2 (0.138 ±0.008) 7.3 ±0.3 (0.287 ±0.012) 7.3 ±0.3 (0.287 ±0.012) 7.3 ±0.3 (0.287 ±0.012) 7.3 ±0.3 (0.287 ±0.012) 7.3 ±0.3 (0.287 ±0.012) 2.8 ±0.2 (0.110 ±0.008) 4.3 ±0.3 (0.169 ±0.012) 6.0 ±0.3 (0.236 ±0.012) 6.0 ±0.3 (0.236 ±0.012) 4.3 ±0.3 (0.169 ±0.012) 6.0 ±0.3 (0.236 ±0.012) 1.1 ±0.1 (0.043 ±0.004) 1.4 ±0.1 (0.055 ±0.004) 1.2 ±0.1 (0.047 ±0.004) 1.5 ±0.1 (0.059 ±0.004) 1.9 ±0.1 (0.075 ±0.004) 1.9 ±0.1 (0.075 ±0.004) 2.2 (0.087) 2.4 (0.094) 4.45 (0.175) 4.45 (0.175) 2.4 (0.094) 4.45 (0.175) S F BOTTOM VIEW T Case F S S S ±0.3 (±0.012) Typical Weight (mg) 0.80 (0.032) 1.3 (0.051) 1.6 (0.063) 1.6 (0.063) 1.3 (0.051) 1.6 (0.063) 55 223 – 263 274 385
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 5 5
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET company
+
+a'YAGEO
+
+Table 1 – Ratings & Part Number Reference
+
+Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number Energy Maximum DC Leakage at 25°C, VR, 5 min charge time Maximum DF at 25°C, 120 Hz Maximum ESR at 25°C, 100 kHz VDC 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 6.3 10 10 10 10 10 10 10 10 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 VDC µF 100 150 150 220 330 470 470 470 470 680 680 680 680 1,000 1,500 1,500 1,500 1,500 330 220 330 330 390 470 820 1,000 22 33 47 47 47 47 68 68 68 100 100 100 100 150 150 150 150 150 150 150 150 150 150 150 150 180 220 220 µF KEMET/ EIA T/3528-12 T/3528-12 M/3528-15 B/3528-21 V/7343-20 W/7343-15 W/7343-15 W/7343-15 V/7343-20 V/7343-20 V/7343-20 X/7343-43 J/7360-15 H/7360-20 H/7360-20 H/7360-20 H/7360-20 H/7360-20 Y/7343-40 V/7343-20 G/7360-12 J/7360-15 G/7360-12 J/7360-15 H/7360-20 H/7360-20 B/3528-21 T/3528-12 T/3528-12 W/7343-15 V/7343-20 V/7343-20 W/7343-15 W/7343-15 W/7343-15 W/7343-15 W/7343-15 W/7343-15 V/7343-20 W/7343-15 W/7343-15 W/7343-15 V/7343-20 V/7343-20 V/7343-20 V/7343-20 V/7343-20 V/7343-20 V/7343-20 X/7343-43 G/7360-12 H/7360-20 X/7343-43 J/7360-15 KEMET/ EIA T520T107M006APE070 T520T157M006ATE070 T520M157M006ATE070 T520B227M006ATE070 T545V337M006ATE045 T545W477M006ATE035 T545W477M006ATE045 T545W477M006ATE055 T545V477M006ATE055 T520V687M006ATE025 T520V687M006ATE035 T520X687M006ATE025 T523J687M006APE070 T545H108M006ATE055 T520H158M006ATE055 T520H158M006ATE035 T545H158M006ATE035 T545H158M006ATE055 T545Y337M010ATE035 T545V227M010ATE045 T523G337M010APE150 T523J337M010APE070 T523G397M010APE150 T523J477M010APE070 T520H827M010ATE055 T523H108M010APE070 T521B226M016ATE070 T521T336M016ATE070 T523T476M016APE090 T545W476M016ATE045 T545V476M016ATE045 T545V476M016ATE070 T523W686M016APE050 T523W686M016APE070 T523W686M016APE100 T523W107M016APE050 T523W107M016APE070 T523W107M016APE100 T545V107M016ATE050 T523W157M016APE050 T523W157M016APE070 T523W157M016APE100 T523V157M016APE050 T523V157M016APE070 T523V157M016APE100 T521V157M016ATE040 T521V157M016ATE050 T521V157M016ATE070 T521V157M016ATE100 T545X157M016ATE040 T523G157M016APE150 T545H187M016ATE055 T545X227M016ATE035 T523J227M016APE070 mJ 1.2 1.7 1.7 2.5 3.8 5.4 5.4 5.4 5.4 7.9 7.9 7.9 7.9 11.6 17.4 17.4 17.4 17.4 11.9 7.9 11.0 11.9 14.0 16.9 29.5 36.0 1.7 2.6 3.6 3.6 3.6 3.6 5.3 5.3 5.3 7.7 7.7 7.7 7.7 11.6 11.6 11.6 11.6 11.6 11.6 11.6 11.6 11.6 11.6 11.6 11.6 13.9 17.0 17.0 mJ µA 63.0 94.5 94.5 138.6 207.9 296.1 296.1 296.1 296.1 428.4 428.4 428.4 428.0 630.0 945.0 945.0 945.0 945.0 330.0 220.0 330.0 330.0 390.0 470.0 820.0 1000.0 35.2 52.8 75.2 75.2 75.2 75.2 108.8 108.8 108.8 160.0 160.0 160.0 160.0 240.0 240.0 240.0 240.0 240.0 240.0 240.0 240.0 240.0 240.0 240.0 240.0 288.0 352.0 352.0 µA % 10 10 10 10 10 10 10 10 10 10 10 10 10 20 20 20 20 20 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 20 10 10 % mΩ 70 70 70 70 45 35 45 55 55 25 35 25 70 55 55 35 35 55 35 45 150 70 150 70 55 70 70 70 90 45 45 70 50 70 100 50 70 100 50 50 70 100 50 70 100 40 50 70 100 40 150 55 35 70 mΩ Maximum Allowable RMS Ripple Current at 45°C, 100 kHz MSL mA 1,220 1,220 1,310 1,350 2,040 2,270 2,000 1,810 1,850 2,700 2,300 3,100 2,510 1,800 1,800 2,310 2,310 1,800 2,630 2,040 1,410 2,510 1,410 2,510 1,800 2,510 1,690 1,500 1,080 2,000 2,040 1,640 2,820 2,376 1,988 2,820 2,376 1,988 1,940 2,820 2,376 1,988 2,870 2,420 2,030 2,560 2,320 1,960 1,640 2,490 1,410 1,800 2,660 2,510 mA 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 4 4 3 4 3 3 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 3 °C 105 105 105 105 105 105 105 105 105 105 105 105 85 85 85 85 85 85 105 105 85 85 85 85 85 85 105 105 85 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 85 85 105 85 °C
+
+Maximum Operating Temperature
+
+Rated Voltage
+
+Rated Capacitance
+
+|
+
+Case Code/ Case Size
+
+KEMET Part Number
+
+|
+
+Energy
+
+|)
+
+Maximum DC Leakage
+
+Maximum DF
+
+Maximum ESR
+
+|
+
+Maximum Allowable RMS Ripple Current
+
+MSL
+
+Maximum Operating Temperature
+
+Part numbers marked in orange font are not recommended for new designs. KEMET recommends the use of part numbers shown in the above table within same Cap/Volt/Case and ESR in black font text. (1) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates capacitance tolerance. Refer to Ordering Information for additional detail. Energy (mJ) = 0.5 * Nominal Cap * (Application Voltage^2 - Dropout Voltage^2) / 1,000; Cap = µF Application Voltage = 90% of VR (≤ 10 V) / 80% of VR (> 10 V) Dropout Voltage = 3 V was used for the calculation
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 6 6
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET company
+
+a'YAGEO
+
+Table 1 – Ratings & Part Number Reference cont.
+
+Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number Energy Maximum DC Leakage at 25°C, VR, 5 min charge time Maximum DF at 25°C, 120 Hz Maximum ESR at 25°C, 100 kHz VDC 16 16 16 16 16 20 20 20 20 20 20 20 20 20 20 20 20 20 25 25 25 25 25 25 25 25 25 25 25 25 35 35 35 35 35 35 35 35 35 35 35 VDC µF 220 330 330 330 470 22 47 47 47 68 68 100 100 100 100 150 150 150 33 47 47 47 47 68 68 68 100 100 150 220 22 33 47 47 47 56 56 68 68 100 150 µF KEMET/ EIA H/7360-20 X/7343-43 H/7360-20 H/7360-20 H/7360-20 B/3528-21 W/7343-15 W/7343-15 V/7343-20 W/7343-15 V/7343-20 W/7343-15 W/7343-15 W/7343-15 V/7343-20 V/7343-20 V/7343-20 V/7343-20 W/7343-15 W/7343-15 W/7343-15 W/7343-15 V/7343-20 W/7343-15 W/7343-15 W/7343-15 V/7343-20 V/7343-20 H/7360-20 H/7360-20 W/7343-15 V/7343-20 W/7343-15 W/7343-15 V/7343-20 W/7343-15 W/7343-15 V/7343-20 V/7343-20 H/7360-20 O/7360-43 KEMET/ EIA T523H227M016APE070 T545X337(1)016ATE025 T548H337M016APE070 T523H337M016APE070 T523H477M016APE070 T521B226M020ATE070 T545W476M020ATE045 T545W476M020ATE055 T545V476M020ATE070 T523W686(1)020APE100 T523V686M020APE100 T523W107M020APE050 T523W107M020APE070 T523W107M020APE100 T545V107M020ATE055 T523V157M020APE050 T523V157M020APE070 T523V157M020APE100 T523W336M025APE100 T523W476M025APE050 T523W476M025APE070 T523W476M025APE100 T523V476M025APE100 T523W686M025APE050 T523W686M025APE070 T523W686M025APE100 T523V107M025APE070 T523V107M025APE100 T523H157M025APE070 T523H227M025APE070 T523W226M035APE100 T523V336M035APE100 T523W476M035APE090 T523W476M035APE100 T523V476M035APE100 T523W566M035APE070 T523W566M035APE100 T523V686M035APE070 T523V686M035APE100 T523H107M035APE070 T521O157M035ATE100 mJ 17.0 25.5 25.5 25.5 36.4 2.7 5.8 5.8 5.8 8.4 8.4 12.4 12.4 12.4 12.4 18.5 18.5 18.5 6.5 9.2 9.2 9.2 9.2 13.3 13.3 13.3 19.6 19.6 29.3 43.0 8.5 12.8 18.2 18.2 18.2 21.7 21.7 26.4 26.4 38.8 91.9 mJ µA 352.0 528.0 528.0 528.0 752.0 44.0 94.0 94.0 94.0 136.0 136.0 200.0 200.0 200.0 200.0 300.0 300.0 300.0 82.5 117.5 117.5 117.5 117.5 170.0 170.0 170.0 250.0 250.0 375.0 550.0 77.0 115.5 164.5 164.5 164.5 196.0 196.0 238.0 238.0 350.0 525.0 µA % 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 20 10 10 10 10 10 10 10 10 10 10 10 % mΩ 70 25 70 70 70 70 45 55 70 100 100 50 70 100 55 50 70 100 100 50 70 100 100 50 70 100 70 100 70 70 100 100 90 100 100 70 100 70 100 70 100 mΩ Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number Energy Maximum DC Leakage Maximum DF Maximum ESR Maximum Allowable RMS Ripple Current at 45°C, 100 kHz MSL Maximum Operating Temperature mA 2,510 3,150 2,510 2,510 2,510 1,690 2,000 1,810 1,640 1,988 2,030 2,820 2,376 1,988 1,850 2,870 2,420 2,030 1,988 2,820 2,376 1,988 2,030 2,820 2,376 1,988 2,420 2,030 2,510 2,510 1,988 2,030 2,100 1,988 2,030 2,376 1,988 2,420 2,030 2,510 1,730 mA 3 3 4 3 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 °C 85 105 85 85 85 105 105 105 105 105 105 105 105 105 125 105 105 105 105 105 105 105 105 105 105 105 105 105 85 85 105 105 105 105 105 105 105 105 105 85 105 °C Maximum Allowable RMS Ripple Current MSL
+
+Maximum Operating Temperature
+
+Part numbers marked in orange font are not recommended for new designs. KEMET recommends the use of part numbers shown in the above table within same Cap/Volt/Case and ESR in black font text. (1) To complete KEMET part number, insert M for ±20% or K for ±10%. Designates capacitance tolerance. Refer to Ordering Information for additional detail. Energy (mJ) = 0.5 * Nominal Cap * (Application Voltage^2 - Dropout Voltage^2) / 1,000; Cap = µF Application Voltage = 90% of VR (≤ 10 V) / 80% of VR (> 10 V) Dropout Voltage = 3 V was used for the calculation
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 7 7
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a company
+
+YAGEO
+
+Derating Guidelines
+
+For Parts with Maximum Operational Temperature of 125°C
+
+100%  90%  Recommended Application Voltage < 10V & T521  e g a t l o V d e t a R %        80%  70%  60%  Recommended Application Voltage > 10V  50%  40%  -55  25  45  85  105  125  Temperature (°C) 
+
+For Parts with Maximum Operational Temperature of 105°C
+
+100%  90%  Recommended Application Voltage < 10V  e g a t l o V d e t a R %        80%  70%  60%  Recommended Application Voltage > 10V  50%  40%  -55  25  45  85  105  Temperature (°C) 
+
+For Parts with Maximum Operational Temperature of 85°C
+
+100%  90%  Recommended Application Voltage < 10V  e g a t l o V d e t a R %        80%  70%  Recommended Application Voltage > 10V  60%  50%  40%  -55  25  45  Temperature °C 
+
+85
+
+Recommended Application Voltage KO-CAPs are solid state capacitors that demonstrate no wearout mechanism when operated within their recommended guidelines. While the KO-CAP can be operated at full rated voltage, most circuit designers seek a minimum level of assurance in long term reliability, which should be demonstrated with data. A voltage derating can provide the desired level of demonstrated reliability based on industry accepted acceleration models. Since most applications do require long term reliability, KEMET recommends that designers consider a 10% voltage derating, according to the graphic above, for the maximum steady state voltage.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 8 8
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Ripple Current/Ripple Voltage
+
+Permissible AC ripple voltage and current are related to equivalent series resistance (ESR) and the power dissipation capabilities of the device.
+
+Permissible AC ripple voltage which may be applied is limited by two criteria: a. The positive peak AC voltage plus the DC bias voltage, if any, must not exceed the DC voltage rating of the capacitor. b. The negative peak AC voltage, in combination with bias voltage, if any, must not exceed the allowable limits specified for reverse voltage.
+
+The maximum power dissipation by case size can be determined using the below table.
+
+Temperature Compensation Multipliers for Maximum Ripple Current 45° C < T ≤ 85°C T ≤ 45°C 85°C < T ≤ 125°C 1.00 0.70 0.25
+
+T = Environmental temperature
+
+Using the P max of the device, the maximum allowable rms ripple current or voltage may be determined.
+
+I(max) = √P max/R E(max) = Z √P max/R
+
+I = rms ripple current (amperes) E = rms ripple voltage (volts) P max = maximum power dissipation(watts) R = ESR at specified frequency (ohms) Z = Impedance at specified frequency (Ohms)
+
+Refer to part number listings for permittable Arms limits.
+
+Case Code EIA Case Code Maximum Power Dissipation (P max) mWatts at 45°C with +30°C Rise For T520/T545 For T521 For T523/T548 T 3528-12 105 160 N105 M 3528-15 120 N/A N/A B 3528-21 127 200 N/A W 7343-15 180 N/A 395 V 7343-20 187 270 423 Y 7343-40 241 N/A N/A X 7343-43 247 N/A N/A G 7360-12 N/A N/A 300 J 7360-15 N/A N/A 440 H 7360-20 187 N/A 440 O 7360-43 N/A 300 N/A
+
+The maximum power dissipation rating must be reduced with increasing environmental operating temperatures. Refer to the Temperature Compensation Multiplier table for details.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 9 9
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Surge Voltage
+
+Surge voltage is the maximum voltage (peak value) which may be applied to the capacitor. The surge voltage must not be applied for periodic charging and discharging in the course of normal operation and cannot be part of the application voltage. Surge voltage capability is demonstrated by application of 1,000 cycles at operating temperature. The parts are charged through a 33 Ohm resistor for 30 seconds and then discharged though a 33 Ohm resistor for each cycle.
+
+Rated Voltage (V) Surge Voltage (V) Category Voltage (V) Category Surge Voltage (V) –55°C to 105°C Up to 125°C 2.5 3.3 – – 6.3 10 16 8.3 13.2 21.1 – – – – – – 20 26.4 13.4 17.4 25 35 33.0 46.2 – – – –
+
+Reverse Voltage
+
+Polymer electrolytic capacitors are polar devices and may be permanently damaged or destroyed if connected in the wrong polarity. These devices will withstand a small degree of transient voltage reversal for short periods as shown in the below table.
+
+Temperature 25°C Permissible Transient Reverse Voltage 15% of Rated Voltage 55°C 10% of Rated Voltage 85°C 5% of Rated Voltage 105°C 3% of Rated Voltage 125°C* 1% of Rated Voltage
+
+*For series rated to 125°C
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 10 10
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Table 2 – Land Dimensions/Courtyard
+
+For T520/T521/T545
+
+KEMET Metric Size Code Density Level A: Maximum (Most) Land Protrusion (mm) Density Level B: Median (Nominal) Land Protrusion (mm) Density Level C: Minimum (Least) Land Protrusion (mm) Case EIA W L S V1 V2 W L S V1 V2 W L S V1 T 3528–12 2.35 2.21 0.92 6.32 4.00 2.23 1.80 1.12 5.22 3.50 2.13 1.42 1.28 4.36 B 3528–21 2.35 2.21 0.92 6.32 4.00 2.23 1.80 1.12 5.22 3.50 2.13 1.42 1.28 4.36 M 3528-15 2.35 2.21 0.92 6.32 4.00 2.23 1.80 1.12 5.22 3.50 2.13 1.42 1.28 4.36 W 7343–15 2.55 2.77 3.67 10.22 5.60 2.43 2.37 3.87 9.12 5.10 2.33 1.99 4.03 8.26 V 7343–20 2.55 2.77 3.67 10.22 5.60 2.43 2.37 3.87 9.12 5.10 2.33 1.99 4.03 8.26 5.10 2.37 2.77 9.12 2.55 10.22 5.60 3.87 2.33 1.99 4.03 Y¹ 2.43 7343–40 3.67 3.67 5.60 10.22 3.87 9.12 2.43 2.77 5.10 2.55 2.33 7343–43 1.99 X¹ 4.03 2.37 9.12 4.03 1.99 3.87 6.80 4.03 4.13 7.30 H 10.22 7360-20 3.67 4.25 2.37 2.77 2.37 4.03 O 1.99 7360-43 4.03 2.77 6.80 3.67 10.22 9.12 7.30 3.87 4.13 4.25 8.26 8.26 8.26 8.26 V2 3.24 3.24 3.24 4.84 4.84 4.84 4.84 6.54 6.54
+
+3.67  5.60  10.22  2.43  2.77  2.55  7343–43  X¹  4.13  7.30  H  10.22  7360-20  3.67  4.25  2.77  O  7360-43  2.77  3.67  10.22  7.30  4.13  4.25 
+
+Density Level A: For low-density product applications. Recommended for wave solder applications and provides a wider process window for reflow solder processes. Density Level B: For products with a moderate level of component density. Provides a robust solder attachment condition for reflow solder processes. Density Level C: For high component density product applications. Before adapting the minimum land pattern variations the user should perform qualification testing based on the conditions outlined in IPC standard 7351 (IPC–7351).
+
+'
+
+V1  L  L  W  W  V2  S  Grid Placement Courtyard 
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 11 11
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Table 2 – Land Dimensions/Courtyard cont.
+
+Density Level A:   Maximum (Most) Land  Protrusion (mm)   Metric  Size  Code  W  S  V1  W  L  V2  EIA  Case  W  2.55  2.43  5.60  10.22  3.67  2.77  7343-15  2.43  2.55  V  7343-20  5.60  10.22  2.77  3.67  3.07  3.07  G  4.60  7360-12  7.30  4.48  10.22  4.60  7.30  3.07  3.07  J  10.22  4.48  7360-15  H  4.48  4.60  3.07  3.07  10.22  7.30  7360-20 
+
+For T523/T548
+
+Density Level C: Minimum (Least) Land Protrusion (mm) Density Level A: Maximum (Most) Land Protrusion (mm) Density Level B: Median (Nominal) Land Protrusion (mm) Metric Size Code KEMET V1 V1 S W S L V1 W L V2 V2 W EIA Case L S W 2.55 2.43 8.26 5.60 10.22 2.37 4.03 3.67 2.77 9.12 7343-15 1.99 2.33 3.87 5.10 2.33 3.87 4.03 9.12 2.37 8.26 1.99 5.10 2.43 2.55 V 7343-20 5.60 10.22 2.77 3.67 3.07 9.12 2.29 4.38 3.07 3.27 3.43 G 6.80 2.67 4.60 7360-12 8.26 7.30 4.48 10.22 4.60 2.29 4.38 7.30 9.12 6.80 3.07 3.07 J 3.27 8.26 10.22 2.67 4.48 3.43 7360-15 3.43 H 8.26 4.48 2.29 4.38 4.60 3.07 6.80 9.12 3.07 3.27 2.67 10.22 7.30 7360-20 V2
+
+Density Level A: For low-density product applications. Recommended for wave solder applications and provides a wider process window for reflow solder processes. Density Level B: For products with a moderate level of component density. Provides a robust solder attachment condition for reflow solder processes. Density Level C: For high component density product applications. Before adapting the minimum land pattern variations the user should perform qualification testing based on the conditions outlined in IPC standard 7351 (IPC–7351).
+
+4.84
+
+4.84
+
+6.54
+
+6.54
+
+6.54
+
+V1  L  L  W  W  V2  S  Grid Placement Courtyard 
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 12 12
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Soldering Process
+
+The KEMET families of surface mount capacitors are compatible with wave (single or dual), convection, IR, or vapor phase reflow techniques. Preheating of these components is recommended to avoid extreme thermal stress. KEMET's recommended profile conditions for convection and IR reflow reflect the profile conditions of the IPC/J–STD–020D standard for moisture sensitivity testing. The devices can safely withstand a maximum of three reflow passes at these conditions.
+
+Please note that although the X/7343–43 and O/7360-43 case size can withstand wave soldering, the tall profile (4.3 mm maximum) dictates care in wave process development.
+
+Profile Feature Preheat/Soak Temperature Minimum (TSmin) Temperature Maximum (TSmax) Time (ts) from Tsmin to Tsmax) Ramp-up Rate (TL to TP) Liquidous Temperature (TL) Time Above Liquidous (tL) Peak Temperature (TP) Time within 5°C of Maximum Peak Temperature (tP) Ramp-down Rate (TP to TL) Time 25°C to Peak Temperature Pb-Free Assembly 150°C 200°C 60 – 120 seconds 3°C/second maximum 217°C 60 – 150 seconds 250°C* 260°C** 30 seconds maximum 6°C/second maximum 8 minutes maximum
+
+Hand soldering should be performed with care due to the difficulty in process control. If performed, care should be taken to avoid contact of the soldering iron to the molded case. The iron should be used to heat the solder pad, applying solder between the pad and the termination, until reflow occurs. Once reflow occurs, the iron should be removed immediately. “Wiping” the edges of a chip and heating the top surface is not recommended.
+
+Note: All temperatures refer to the center of the package, measured on the package body surface that is facing up during assembly reflow. * For Case Size height > 2.5 mm ** For Case Size height ≤ 2.5 mm
+
+TP  Maximum Ramp-up Rate = 3°C/second Maximum Ramp-down Rate = 6°C/second  tP     e r u t a r e p m e T  TL  Tsmax  Tsmin  ts  tL  25  25°C to Peak  Time 
+
+Storage
+
+All KO-Cap are shipped in moisture barrier bags (MBBs) with desiccant and humidity indicator card (HIC). These parts are classified as moisture sensitivity level 3 (MSL3) or moisture sensitivity level 4 (MSL4) per IPC/JEDEC J-STD-020 and packaged per IPC/JEDEC J–STD–033. Refer to Table 1 for part type specification. MSL3 specifies a floor time of 168H at 30°C maximum temperature and 60% relative humidity. MSL4 specifies a floor time of 72H at 30°C maximum temperature and 60% relative humidity. Unused capacitors should be sealed in a MBB with fresh desiccant.
+
+Calculated shelf life in sealed bag: – 12 months from bag seal date in a storage environment of < 40°C and humidity < 90% RH – 24 months from bag seal date in a storage environment of < 30°C and humidity < 70% RH
+
+If baking is required, refer to IPC/JEDEC J–STD–033 for bake procedure
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 13 13
+
+Detailed Cross Section 
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+Construction
+
+T520/T521/T545
+
+Molded Epoxy  Case  Polarity Stripe (+)  Polarity  Bevel (+)  Leadframe (- Cathode)  Wire  Weld (to attach wire)  Silver Adhesive  Leadframe (+ Anode)  Molded Epoxy  Case 
+
+Molded Epoxy  Case  Polarity Stripe (+)  Detailed Cross Section  Silver Paint (Fourth Layer)  Polarity  Bevel (+)  Wire  Leadframe (- Cathode)  Wire  Weld (to attach wire)  Carbon (Third Layer)  Silver Adhesive  Ta2O5 Dielectric (First Layer)  Polymer (Second Layer)  Leadframe (+ Anode)  Molded Epoxy  Case  Tantalum 
+
+Ta2O5 Dielectric (First Layer)  Polymer (Second Layer)  Leadframe (+ Anode)  Tantalum  Detailed Cross Section 
+
+T523/T548  Polarity Stripe (+)  Molded Epoxy  Case  Carbon (Third Layer)  Tantalum Wire  Leadframe (+ Anode)  Leadframe (- Cathode)  Weld (to attach wire)  Spacer 
+
+Carbon (Third Layer)  Silver Paint (Fourth Layer)  Polymer (Second Layer)  Ta2O5 Dielectric (First Layer)  Tantalum  Wire  Tantalum 
+
+T2079_SSD • 5/28/2024 14 14
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+KEMET aYAGEO company
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+Capacitor Marking
+
+Polarity  Indicator (+)  Picofarad Code  Rated  Voltage  KEMET ID  Date Code* 
+
+Rated Voltage
+
+1st digit : last number of year 2nd & 3rd digits: week of year
+
+T2079_SSD • 5/28/2024 15 15
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Tape & Reel Packaging Information
+
+KEMET’s molded chip capacitor families are packaged in 8 and 12 mm plastic tape on 7" and 13" reels in accordance with EIA Standard 481: Embossed Carrier Taping of Surface Mount Components for Automatic Handling. This packaging system is compatible with all tape-fed automatic pick-and-place systems.
+
+Right hand orientation only  Embossed carrier  (+)  (−)  Embossment  Top tape thickness 0.10 mm (0.004”)  maximum thickness  8 mm (0.315”) or 12 mm (0.472”)  180 mm (7.0”) or 330 mm (13.”) 
+
+Table 3 – Packaging Quantity
+
+Case Code Tape Width (mm) 7" Reel* 13" Reel* KEMET T M B W V Y X J H O EIA 3528-12 3528-15 3528-21 7343-15 7343-20 7343-40 7343-43 7360-15 7360-20 7360-43 8 8 8 12 12 12 12 12 12 12 2,500 2,000 2,000 1,000 1,000 500 500 1,000 1,000 500 10,000 8,000 8,000 3,000 3,000 2,000 2,000 3,000 3,000 2,000
+
+* No C-Spec required for 7" reel packaging. C-7280 required for 13" reel packaging.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 16 16
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a company
+
+YAGEO
+
+Figure 1 – Embossed (Plastic) Carrier Tape Dimensions
+
+T T2  ØD0  P2  P0  (10 pitches cumulative tolerance on tape ±0.2 mm)  E1  A0  F  K0  W  B1  B0  E2  S1  P1  T1  Cover Tape  Center Lines of Cavity  ØD1  Embossment For cavity size, see Note 1, Table 4  B1 is for tape feeder reference only,  including draft concentric about B0.  User Direction of Unreeling 
+
+Table 4 – Embossed (Plastic) Carrier Tape Dimensions Metric will govern
+
+Constant Dimensions — Millimeters (Inches)
+
+Tape Size D0 D1 Minimum Note 1 E1 P0 P2 R Reference Note 2 S1 Minimum Note 3 T Maximum 8 mm 12 mm 1.5 +0.10/−0.0 (0.059 +0.004/−0.0) 1.0 (0.039) 1.5 (0.059) 1.75 ±0.10 (0.069 ±0.004) 4.0 ±0.10 (0.157 ±0.004) 2.0 ±0.05 (0.079 ±0.002) 25.0 (0.984) 30 (1.181) 0.600 (0.024) 0.600 (0.024) 0.100 (0.004)
+
+T1 Maximum
+
+Variable Dimensions — Millimeters (Inches) Tape Size Pitch B1 Maximum Note 4 E2 Minimum F P1 T2 Maximum W Maximum A0, B0 & K0 8 mm Single (4 mm) 4.35 (0.171) 6.25 (0.246) 3.5 ±0.05 (0.138 ±0.002) 4.0 ±0.10 (0.157 ±0.004) 2.5 (0.098) 8.3 (0.327) 12 mm 8.2 (0.323) 10.25 (0.404) 5.5 ±0.05 (0.217 ±0.002) 8.0 ±0.10 (0.315 ±0.004) 4.6 (0.181) 12.3 (0.484) Note 5
+
+Single (4 mm) and Double (8 mm)
+
+1. The embossment hole location shall be measured from the sprocket hole controlling the location of the embossment. Dimensions of embossment location and hole location shall be applied independent of each other.
+
+2. The tape, with or without components, shall pass around R without damage (see Figure 4). 3. If S1 < 1.0 mm, there may not be enough area for cover tape to be properly applied (see EIA Standard 481–D, paragraph 4.3, section b). 4. B1 dimension is a reference dimension for tape feeder clearance only. 5. The cavity defi ned by A0, B0 and K0 shall surround the component with suﬃ cient clearance that:
+
+(a) the component does not protrude above the top surface of the carrier tape. (b) the component can be removed from the cavity in a vertical direction without mechanical restriction, after the top cover tape has been removed. (c) rotation of the component is limited to 20° maximum for 8 and 12 mm tapes (see Figure 2). (d) lateral movement of the component is restricted to 0.5 mm maximum for 8 mm and 12 mm wide tape (see Figure 3). (e) see Addendum in EIA Standard 481–D for standards relating to more precise taping requirements.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 17 17
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+Packaging Information Performance Notes
+
+1. Cover Tape Break Force: 1.0 kg minimum. 2. Cover Tape Peel Strength: The total peel strength of the cover tape from the carrier tape shall be:
+
+Tape Width Peel Strength 8 mm 0.1 to 1.0 Newton (10 to 100 gf) 12 and 16 mm 0.1 to 1.3 Newton (10 to 130 gf)
+
+The direction of the pull shall be opposite the direction of the carrier tape travel. The pull angle of the carrier tape shall be 165° to 180° from the plane of the carrier tape. During peeling, the carrier and/or cover tape shall be pulled at a velocity of 300 ±10 mm/minute. 3. Labeling: Bar code labeling (standard or custom) shall be on the side of the reel opposite the sprocket holes. Refer to EIA Standards 556 and 624.
+
+Figure 2 – Maximum Component Rotation
+
+° T  Maximum Component Rotation  Top View  Bo  Typical Pocket Centerline Maximum Tape Rotation ( Width (mm) 20     8, 12      ° T)  Typical Component Centerline  Ao 
+
+Maximum Component Rotation Side View
+
+° s  Tape Width (mm) 8, 12      Maximum Rotation ( 20      ° S) 
+
+Figure 3 – Maximum Lateral Movement
+
+Figure 4 – Bending Radius
+
+8 mm & 12 mm Tape
+
+0.5 mm maximum  0.5 mm maximum 
+
+Embossed Carrier  Punched Carrier  R  Bending Radius  R 
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 18 18
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a company
+
+YAGEO
+
+Figure 5 – Reel Dimensions
+
+Full Radius, See Note  Access Hole at Slot Location (Ø 40 mm minimum)  W3  flange distortion  at outer edge)  (Includes  W2  (Measured at hub)  A  D (See Note)  N  C (Arbor hole diameter)  W1  (Measured at hub)  B (see Note)  If present, tape slot in core for tape start: 2.5 mm minimum width x 10.0 mm minimum depth 
+
+Note: Drive spokes optional; if used, dimensions B and D shall apply.
+
+Table 5 – Reel Dimensions Metric will govern
+
+Constant Dimensions — Millimeters (Inches) Tape Size A B Minimum C D Minimum 8 mm 12 mm 178 ±0.20 (7.008 ±0.008) or 330 ±0.20 (13.000 ±0.008) 1.5 (0.059) 13.0 +0.5/−0.2 (0.521 +0.02/−0.008) 20.2 (0.795) Variable Dimensions — Millimeters (Inches) Tape Size 8 mm 12 mm N Minimum 50 (1.969) W1 8.4 +1.5/−0.0 (0.331 +0.059/−0.0) 12.4 +2.0/−0.0 (0.488 +0.078/−0.0) W2 Maximum 14.4 (0.567) 18.4 (0.724) W3 Shall accommodate tape width without interference
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 19 19
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+Figure 6 – Tape Leader & Trailer Dimensions
+
+Embossed Carrier
+
+Punched Carrier 8 mm & 12 mm only  END  Carrier Tape  Round Sprocket Holes  START  Top Cover Tape  Elongated Sprocket Holes (32 mm tape and wider)  Trailer 160 mm minimum  Components  100 mm  minimum Leader  400 mm minimum  Top Cover Tape 
+
+Figure 7 – Maximum Camber
+
+Elongated Sprocket Holes (32 mm & wider tapes)  Carrier Tape  Round Sprocket Holes  1 mm maximum, either direction  Straight Edge 
+
+250 mm
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+KEMET a YAGEO company
+
+T2079_SSD • 5/28/2024 20 20
+
+Solid State Drives/High Energy Applications Polymer Electrolytic (KO-CAP®), 6.3 - 35 VDC
+
+KEMET a YAGEO company
+
+KEMET Electronics Corporation Sales Oﬃ ces
+
+For a complete list of our global sales offi ces, please visit www.kemet.com/sales.
+
+Disclaimer
+
+YAGEO Corporation and its affi liates do not recommend the use of commercial or automotive grade products for high reliability applications or manned space fl ight.
+
+All product specifi cations, statements, information and data (collectively, the “Information”) in this datasheet are subject to change. The customer is responsible for checking and verifying the extent to which the Information contained in this publication is applicable to an order at the time the order is placed. All Information given herein is believed to be accurate and reliable, but it is presented without guarantee, warranty, or responsibility of any kind, expressed or implied.
+
+Statements of suitability for certain applications are based on KEMET Electronics Corporation’s (“KEMET”) knowledge of typical operating conditions for such applications, but are not intended to constitute – and KEMET specifi cally disclaims – any warranty concerning suitability for a specifi c customer application or use. The Information is intended for use only by customers who have the requisite experience and capability to determine the correct products for their application. Any technical advice inferred from this Information or otherwise provided by KEMET with reference to the use of KEMET’s products is given gratis, and KEMET assumes no obligation or liability for the advice given or results obtained.
+
+Although KEMET designs and manufactures its products to the most stringent quality and safety standards, given the current state of the art, isolated component failures may still occur. Accordingly, customer applications which require a high degree of reliability or safety should employ suitable designs or other safeguards (such as installation of protective circuitry or redundancies) in order to ensure that the failure of an electrical component does not result in a risk of personal injury or property damage.
+
+Although all product–related warnings, cautions and notes must be observed, the customer should not assume that all safety measures are indicated or that other measures may not be required.
+
+KEMET is a registered trademark of KEMET Electronics Corporation.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2079_SSD • 5/28/2024 21 21

@@ -1,0 +1,179 @@
+TOKIN NeoCapacitor F/PS Low Profile High Capacitance Polymer Capacitor
+
+KEMET a YAGEO company
+
+Overview
+
+NeoCapacitor® provides excellent performance for various applications due to high conductivity of the conductive polymer.
+
+TOKIN’s devices are classified into the following three quality grades, in accordance with their application: Standard, Special, and Specific. The quality grade of all devices in this document is “standard” and cannot be used for “special” or “specific” quality grade applications. Customers who intend to use the products in this document for applications other than “standard” quality grade must contact KEMET sales representative in advance.
+
+Standard: This quality grade is intended for applications in which failure or malfunction of the device is highly unlikely to cause harm to persons or damage to property, or be the source of any negative effects or problems in the wider community.
+
+Special: This quality grade is intended for special applications that have common requirements, such specific industrial fields. Devices with a “special” quality grade are designed, manufactured, and tested using more a stringent quality assurance program than what is used for “standard” grade devices. There is a high possibility that failure or malfunction of the device when being used for applications in this category will cause harm to persons or damage to property, or bring negative effects or problems in the wider community.
+
+Specific: Devices in this quality grade are designed, manufactured, and tested using a quality assurance program that is designated by the customer or that is created in accordance with the customer’s specifications. There is an extremely high possibility that failure or malfunction of the device when being used for applications in this category will cause harm to persons or damage to property, or bring serious problems in the wider community. Customers who use KEMET's products for these “specific” applications must conclude an individual quality agreement and/or development agreement with KEMET. A quality assurance program designated by the customer must also be determined in advance.
+
+Benefits
+
+Excellent noise absorption performance • Higher ripple current • Miniaturized, thinner, higher capacitance and lower ESR • Lead free (JEITA PHASE3), RoHS2 directive
+
+(2011/65/EU + 2015/863/EU) and halogen-free.
+
+• Antimony-free and Red phosphorous-free materials for mold resin.
+
+
+
+Built Into Tomorrow
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2085_F-PS • 8/18/2023 1
+
+TOKIN NeoCapacitor F/PS Low Profile High Capacitance Polymer Capacitor
+
+KEMET aYAGEO company
+
+Applications
+
+Typical applications include voltage smoothing, noise absorption in high speed operation circuit , multi media instruments, PC (voltage smoothing and noise absorption of CPU, memory and various LSI), Smartphone, mobile phone (stabilization of battery voltage, stabilization for display), LCD TV (stabilization of LCD driver and timing controller) and others (tablet, PC, portable audio player, DSC, DVC, HDD, SSD, communication card, portable gaming devices, head-mounted displays, drones, IoT devices).
+
+K-SIM
+
+For a detailed analysis of specific part numbers, please visit ksim.kemet.com to access KEMET’s K-SIM software. KEMET K-SIM is designed to simulate behavior of components with respect to frequency, ambient temperature, and DC bias levels.
+
+Ordering Information
+
+TE FPS A3 0J 107 M (100) 8R Tape & Reel Series Case Code DC Rated Voltage in Volts Capacitance (pF) Capacitance tolerance ESR Spec Packing Orientation TE = φ 180 mm reel Face down structure A2 (3216–12) A3 (3216–10) B10 (3528–10) B3 (3528–12) 0G = 4 V 0J = 6.3 V 1A = 10 V 1C = 16 V 1D = 20 V 1E = 25 V 1V = 35 V First two digits represents the cap code. Third digit specifies number of zeros to follow M = ±20% (100) shows 100 mΩ Blank = Refer to PN in Table 1 for specification
+
+8 = Tape width (8 mm) R = Packaging orientation (cathode on sprocket hole)
+
+Performance Characteristics
+
+Item Performance Characteristics Operating Temperature −55°C to +105°C Rated Voltage Range (V) 4 – 35 Surge Voltage (V) Rated Voltage Surge Voltage 4 V 5.2 V 6.3 V 8 V 10 V 13 V 16 V 20.7 V 20 V 23 V 25 V 29 V 35 V 41 V Nominal Capacitance (120 Hz) 6.8 μF ~ 220 μF* Dissipation Factor (tan δ, 120 Hz) Refer to Standard Ratings* Leakage Current (LC, VR, 5 minutes) Refer to Standard Ratings Equivalent Series Resistance (ESR, 100 kHz) Refer to Standard Ratings Permissible Ripple Current (100 kHz) Refer to Standard Ratings
+
+* For these measurements apply 1.5 VDC
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2085_F-PS • 8/18/2023 2 2
+
+TOKIN NeoCapacitor F/PS Low Profile High Capacitance Polymer Capacitor
+
+KEMET a YAGEO company
+
+Qualification
+
+A2/A3/B3 case
+
+Test Condition Surge Voltage Temperature: 85°C, Surge Voltage apply, 1,000 Ω series resistance, 1,000 cycles Temperature Stability Temperature exposure at +25°C, −55°C, +105°C Endurance Temperature: 105°C, Rated voltage apply, Time: 1,000 hours Time: 2,000 hours*1 Humidity Temperature: 60°C, Humidity: 90 ~ 95% R.H., 500 hours Δ C/C tan δ LC Δ C/C tan δ LC Δ C/C tan δ LC*2 Δ C/C*3 tan δ LC*4 Characteristics Within −20%/+20% of the initial value Within IL Within IL +25°C – Within IL -55°C 0% ~ −20% compare with +25°C Within IL +105°C +50% ~ 0% compare with +25°C Within 1.5 × IL Within IL – Within 10 × IL Within -20%/+20% of the initial value Within 1.5 × IL Within IL +30% ~ −20% of the initial value Within 1.5 × IL Within IL
+
+IL = Initial limit *1 For TEFPSB31E156M8R, TEFPSB31E226M8R test time is 2,000 hours *2 For FPSB31E226M8R LC post testing is within 3 X IL
+
+B10 case
+
+Test Condition Surge Voltage Temperature: 105°C, Surge Voltage apply, 1,000 Ω series resistance, 1,000 cycles Temperature Stability Temperature exposure at +25°C, −55°C, +105°C Endurance Temperature: 105°C, Rated voltage apply, Time: 1,000 hours Time: 2,000 hours*1 Humidity Temperature: 60°C, Humidity: 90 ~ 95% R.H., 500 hours Δ C/C tan δ LC Δ C/C tan δ LC Δ C/C tan δ LC*2 Δ C/C*3 tan δ LC*4 Characteristics Within −20%/+20% of the initial value Within IL Within IL +25°C – Within IL -55°C 0% ~ −20% compare with +25°C Within IL +105°C +50% ~ 0% compare with +25°C Within 1.5 × IL Within IL – Within 10 × IL Within -20%/+20% of the initial value Within 1.5 × IL Within 1.25 × IL +30% ~ −20% of the initial value Within 1.5 × IL Within 5 × IL
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2085_F-PS • 8/18/2023 3 3
+
+TOKIN NeoCapacitor F/PS Low Profile High Capacitance Polymer Capacitor
+
+Dimensions – Millimeters (Inches) Metric will govern
+
+A2 & A3 Case
+
+END VIEW
+
+SIDE VIEW
+
+if i | Fo | [Sra o w “|
+
+L
+
+“7
+
+BOTTOM VIEW
+
+1 it Log Log
+
+Case Size Component Dimensions KEMET EIA L ±0.2 W1 ±0.2 W2 ±0.1 H ±0.1 A2 3216–12 3.2 1.6 1.2 1.1 A3 3216–10 3.2 1.6 1.2 0.9 B10 3528–10 3.5 2.8 2.2 1.0 max B3 3528–12 3.5 2.8 2.2 1.1 Z ±0.2 0.8 0.8 0.7 0.7
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+KEMET aYAGEO company
+
+B3 & B10 Case
+
+Anode Side  W2 W1  L  1 W  Cathode Side  H  Z  Z  W2 W1  2 W 
+
+T2085_F-PS • 8/18/2023 4 4
+
+TOKIN NeoCapacitor F/PS Low Profile High Capacitance Polymer Capacitor
+
+KEMET company
+
+a'YAGEO
+
+Table 1 – Ratings & Part Number Reference
+
+Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number V µF KEMET/EIA 4 4 4 6.3 6.3 6.3 6.3 6.3 6.3 10 10 10 10 10 16 20 25 25 25 25 35 100 220 220 47 47 100 100 100 100 22 33 33 47 47 33 15 10 15 15 22 6.8 A3/3216-10 B10/3528-10 B10/3528-10 A3/3216-10 A3/3216-10 A3/3216-10 A3/3216-10 A3/3216-10 A3/3216-10 A3/3216-10 A3/3216-10 A3/3216-10 A3/3216-10 A3/3216-10 A2/3216-12 B10/3528-10 A2/3216-12 B10/3528-10 B3/3528-12 B3/3528-12 B3/3528-12 TEFPSA30G107M8R TEFPSB100G227M(25) TEFPSB100G227M(30) TEFPSA30J476M8R TEFPSA30J476M(70)8R TEFPSA30J107M8R TEFPSA30J107M(100)8R TEFPSA30J107M(70)8R TEFPSA30J107M(55)8R TEFPSA31A226M8R TEFPSA31A336M8R TEFPSA31A336M(150)8R TEFPSA31A476M8R TEFPSA31A476M(150)8R TEFPSA21C336M8R TEFPSB101D156M8R TEFPSA21E106M(150)8R TEFPSB101E156M8R TEFPSB31E156M8R TEFPSB31E226M8R TEFPSB31V685M8R V µF KEMET/EIA Rated Voltage Rated Capacitance Case Code/ Case Size KEMET Part Number Leakage Current µA at +25°C Maximum 40 88 88 29.6 29.6 63 63 63 63 22 33 33 47 47 54 30 25 75 112.5 165 47.6 µA at +25°C Maximum Leakage Current tan δ % at 25°C 120 Hz Maximum 8 10 10 6 6 8 8 8 8 8 6 6 6 6 10 10 10 10 10 10 10 % at 25°C 120 Hz Maximum tan δ ESR mΩ at 25°C 100 kHz Maximum 200 25 30 200 70 200 100 70 55 200 200 150 200 150 200 150 150 150 100 100 100 mΩ at 25°C 100 kHz Maximum ESR Permissible Ripple Current Rated and Maximum Operating Temperature mA at +25°C 100 kHz Maximum °C 548 1732 1581 548 925 548 774 925 1044 548 548 632 548 632 548 707 632 707 866 866 866 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 105 mA at +25°C 100 kHz Maximum °C Permissible Ripple Current Rated and Maximum Operating Temperature
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2085_F-PS • 8/18/2023 5 5
+
+TOKIN NeoCapacitor F/PS Low Profile High Capacitance Polymer Capacitor
+
+KEMET company
+
+aYAGEO
+
+Capacitor Marking
+
+B3/B10 Case  Polarity  Indicator (+)  NE =  Neo Capacitor  DC Rated  Voltage and Capacitance  Production  Monthly Code 
+
+A2/A3 Case  Polarity  Indicator (+)  Polarity  Indicator (+)  Production  Monthly Code  NE =  Neo Capacitor  DC Rated  Voltage and Capacitance  Production  Monthly Code 
+
+Polarity  Indicator (+)  Polarity  Indicator (+)  Production  Monthly Code  NE =  Neo Capacitor  DC Rated  Voltage and Capacitance  DC Rated  Voltage and Capacitance  Production  Monthly Code 
+
+DC Rated Voltage and Capacitance Code
+
+Capacitance (µF) 4 g 6 j 10 A Voltage 16 C 20 D 25 E 35 V 6.8 W6 VW6 15 E7 DE7 EE7 22 J7 AJ7 EJ7 33 N7 AN7 CN7 47 S7 jS7 AS7 100 A8 J8 220 jA8
+
+gA8 gJ8 Production Monthly Code
+
+Year Jan Feb Mar Apr May Jun Month Jul Aug Sep Oct Nov Dec 2021 A B C D E F G H J K L M 2022 N P Q R S T U V W X Y Z 2023 a b c d e f g h j k l m 2024 n p q r s t u v w x y z
+
+Production monthly code will resume beginning in 2025.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2085_F-PS • 8/18/2023 6 6
+
+TOKIN NeoCapacitor F/PS Low Profile High Capacitance Polymer Capacitor
+
+KEMET aYAGEO company
+
+KEMET Electronics Corporation Sales Oﬃ ces
+
+For a complete list of our global sales oﬃ ces, please visit www.kemet.com/sales.
+
+Disclaimer
+
+YAGEO Corporation and its aﬃ liates do not recommend the use of commercial or automotive grade products for high reliability applications or manned space ﬂ ight.
+
+All product specifi cations, statements, information and data (collectively, the “Information”) in this datasheet are subject to change. The customer is responsible for checking and verifying the extent to which the Information contained in this publication is applicable to an order at the time the order is placed. All Information given herein is believed to be accurate and reliable, but it is presented without guarantee, warranty, or responsibility of any kind, expressed or implied.
+
+Statements of suitability for certain applications are based on KEMET Electronics Corporation’s (“KEMET”) knowledge of typical operating conditions for such applications, but are not intended to constitute – and KEMET specifi cally disclaims – any warranty concerning suitability for a specifi c customer application or use. The Information is intended for use only by customers who have the requisite experience and capability to determine the correct products for their application. Any technical advice inferred from this Information or otherwise provided by KEMET with reference to the use of KEMET’s products is given gratis, and KEMET assumes no obligation or liability for the advice given or results obtained.
+
+Although KEMET designs and manufactures its products to the most stringent quality and safety standards, given the current state of the art, isolated component failures may still occur. Accordingly, customer applications which require a high degree of reliability or safety should employ suitable designs or other safeguards (such as installation of protective circuitry or redundancies) in order to ensure that the failure of an electrical component does not result in a risk of personal injury or property damage.
+
+Although all product–related warnings, cautions and notes must be observed, the customer should not assume that all safety measures are indicated or that other measures may not be required.
+
+KEMET is a registered trademark of KEMET Electronics Corporation.
+
+© KEMET Electronics Corporation • One East Broward Boulevard Fort Lauderdale, FL 33301 USA • 954-766-2800 • www.kemet.com
+
+T2085_F-PS • 8/18/2023 7 7
