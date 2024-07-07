@@ -1,0 +1,4 @@
+data/pdf/Hi-POE-Magnetics-whitepaper.pdf
+data/pdf/Introduction-Transformer-Magnetics.pdf
+data/pdf/Partial-Discharge.pdf
+data/pdf/T-Chip.pdf
